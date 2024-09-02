@@ -1,0 +1,4269 @@
+[
+  {
+    "full_name": "Antoine Griezmann",
+    "match_name": "Spain v France",
+    "game_date": "2024-07-09",
+    "game_time": "19:00:00",
+    "stats": [
+      {
+        "stat_title": "Player Shots",
+        "stat_value": "1.5",
+        "underdog_stat": {
+          "over_multiplier": 1.0,
+          "under_multiplier": 1.0
+        },
+        "bet365_stat": [
+          {
+            "stat_type": "Over",
+            "american_odds": -110,
+            "bookmaker": "Bet365"
+          },
+          {
+            "stat_type": "Under",
+            "american_odds": -125,
+            "bookmaker": "Bet365"
+          }
+        ],
+        "kambi_stat": [
+          {
+            "stat_type": "Under",
+            "american_odds": -132,
+            "bookmaker": "Kambi"
+          },
+          {
+            "stat_type": "Over",
+            "american_odds": -116,
+            "bookmaker": "Kambi"
+          }
+        ]
+      },
+      {
+        "stat_title": "Player Shots On Target",
+        "stat_value": "0.5",
+        "underdog_stat": {
+          "over_multiplier": 1.1,
+          "under_multiplier": 0.85
+        },
+        "bet365_stat": [
+          {
+            "stat_type": "Under",
+            "american_odds": -175,
+            "bookmaker": "Bet365"
+          },
+          {
+            "stat_type": "Over",
+            "american_odds": 125,
+            "bookmaker": "Bet365"
+          }
+        ],
+        "kambi_stat": [
+          {
+            "stat_type": "Under",
+            "american_odds": -143,
+            "bookmaker": "Kambi"
+          },
+          {
+            "stat_type": "Over",
+            "american_odds": 102,
+            "bookmaker": "Kambi"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "full_name": "Alvaro Morata",
+    "match_name": "Spain v France",
+    "game_date": "2024-07-09",
+    "game_time": "19:00:00",
+    "stats": [
+      {
+        "stat_title": "Player Shots",
+        "stat_value": "1.5",
+        "underdog_stat": {
+          "over_multiplier": 0.75,
+          "under_multiplier": 1.25
+        },
+        "bet365_stat": [
+          {
+            "stat_type": "Over",
+            "american_odds": -200,
+            "bookmaker": "Bet365"
+          }
+        ],
+        "kambi_stat": [
+          {
+            "stat_type": "Over",
+            "american_odds": -200,
+            "bookmaker": "Kambi"
+          },
+          {
+            "stat_type": "Under",
+            "american_odds": 128,
+            "bookmaker": "Kambi"
+          }
+        ]
+      },
+      {
+        "stat_title": "Player Shots On Target",
+        "stat_value": "0.5",
+        "underdog_stat": {
+          "over_multiplier": 0.9,
+          "under_multiplier": 1.1
+        },
+        "bet365_stat": [
+          {
+            "stat_type": "Over",
+            "american_odds": -150,
+            "bookmaker": "Bet365"
+          },
+          {
+            "stat_type": "Under",
+            "american_odds": 110,
+            "bookmaker": "Bet365"
+          }
+        ],
+        "kambi_stat": [
+          {
+            "stat_type": "Over",
+            "american_odds": -141,
+            "bookmaker": "Kambi"
+          },
+          {
+            "stat_type": "Under",
+            "american_odds": 100,
+            "bookmaker": "Kambi"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "full_name": "Ousmane Dembele",
+    "match_name": "Spain v France",
+    "game_date": "2024-07-09",
+    "game_time": "19:00:00",
+    "stats": [
+      {
+        "stat_title": "Player Shots",
+        "stat_value": "1.5",
+        "underdog_stat": {
+          "over_multiplier": 1.0,
+          "under_multiplier": 1.0
+        },
+        "bet365_stat": [
+          {
+            "stat_type": "Under",
+            "american_odds": 110,
+            "bookmaker": "Bet365"
+          },
+          {
+            "stat_type": "Over",
+            "american_odds": -150,
+            "bookmaker": "Bet365"
+          }
+        ],
+        "kambi_stat": [
+          {
+            "stat_type": "Over",
+            "american_odds": -147,
+            "bookmaker": "Kambi"
+          },
+          {
+            "stat_type": "Under",
+            "american_odds": -102,
+            "bookmaker": "Kambi"
+          }
+        ]
+      },
+      {
+        "stat_title": "Player Shots On Target",
+        "stat_value": "0.5",
+        "underdog_stat": {
+          "over_multiplier": 1.5,
+          "under_multiplier": 0.75
+        },
+        "bet365_stat": [
+          {
+            "stat_type": "Under",
+            "american_odds": -200,
+            "bookmaker": "Bet365"
+          },
+          {
+            "stat_type": "Over",
+            "american_odds": 150,
+            "bookmaker": "Bet365"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "full_name": "Dani Olmo",
+    "match_name": "Spain v France",
+    "game_date": "2024-07-09",
+    "game_time": "19:00:00",
+    "stats": [
+      {
+        "stat_title": "Player Shots",
+        "stat_value": "1.5",
+        "underdog_stat": {
+          "over_multiplier": 0.7,
+          "under_multiplier": 1.5
+        },
+        "bet365_stat": [
+          {
+            "stat_type": "Over",
+            "american_odds": -200,
+            "bookmaker": "Bet365"
+          }
+        ],
+        "kambi_stat": [
+          {
+            "stat_type": "Over",
+            "american_odds": -208,
+            "bookmaker": "Kambi"
+          },
+          {
+            "stat_type": "Under",
+            "american_odds": 135,
+            "bookmaker": "Kambi"
+          }
+        ]
+      },
+      {
+        "stat_title": "Player Shots On Target",
+        "stat_value": "0.5",
+        "underdog_stat": {
+          "over_multiplier": 1.0,
+          "under_multiplier": 1.0
+        },
+        "bet365_stat": [
+          {
+            "stat_type": "Over",
+            "american_odds": -138,
+            "bookmaker": "Bet365"
+          },
+          {
+            "stat_type": "Under",
+            "american_odds": 100,
+            "bookmaker": "Bet365"
+          }
+        ],
+        "kambi_stat": [
+          {
+            "stat_type": "Over",
+            "american_odds": -123,
+            "bookmaker": "Kambi"
+          },
+          {
+            "stat_type": "Under",
+            "american_odds": -114,
+            "bookmaker": "Kambi"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "full_name": "Nico Williams",
+    "match_name": "Spain v France",
+    "game_date": "2024-07-09",
+    "game_time": "19:00:00",
+    "stats": [
+      {
+        "stat_title": "Player Shots",
+        "stat_value": "1.5",
+        "underdog_stat": {
+          "over_multiplier": 1.0,
+          "under_multiplier": 1.0
+        },
+        "bet365_stat": [
+          {
+            "stat_type": "Over",
+            "american_odds": -110,
+            "bookmaker": "Bet365"
+          },
+          {
+            "stat_type": "Under",
+            "american_odds": -125,
+            "bookmaker": "Bet365"
+          }
+        ],
+        "kambi_stat": [
+          {
+            "stat_type": "Under",
+            "american_odds": -175,
+            "bookmaker": "Kambi"
+          },
+          {
+            "stat_type": "Over",
+            "american_odds": 112,
+            "bookmaker": "Kambi"
+          }
+        ]
+      },
+      {
+        "stat_title": "Player Shots On Target",
+        "stat_value": "0.5",
+        "underdog_stat": {
+          "over_multiplier": 1.25,
+          "under_multiplier": 0.8
+        },
+        "bet365_stat": [
+          {
+            "stat_type": "Under",
+            "american_odds": -138,
+            "bookmaker": "Bet365"
+          },
+          {
+            "stat_type": "Over",
+            "american_odds": 100,
+            "bookmaker": "Bet365"
+          }
+        ],
+        "kambi_stat": [
+          {
+            "stat_type": "Under",
+            "american_odds": -200,
+            "bookmaker": "Kambi"
+          },
+          {
+            "stat_type": "Over",
+            "american_odds": 140,
+            "bookmaker": "Kambi"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "full_name": "Rodri",
+    "match_name": "Spain v France",
+    "game_date": "2024-07-09",
+    "game_time": "19:00:00",
+    "stats": [
+      {
+        "stat_title": "Player Shots",
+        "stat_value": "0.5",
+        "underdog_stat": {
+          "over_multiplier": 0.75,
+          "under_multiplier": 1.25
+        },
+        "bet365_stat": [
+          {
+            "stat_type": "Under",
+            "american_odds": 150,
+            "bookmaker": "Bet365"
+          },
+          {
+            "stat_type": "Over",
+            "american_odds": -200,
+            "bookmaker": "Bet365"
+          }
+        ]
+      },
+      {
+        "stat_title": "Player Shots On Target",
+        "stat_value": "0.5",
+        "underdog_stat": {
+          "over_multiplier": 1.75,
+          "under_multiplier": 0.7
+        },
+        "bet365_stat": [
+          {
+            "stat_type": "Under",
+            "american_odds": -275,
+            "bookmaker": "Bet365"
+          },
+          {
+            "stat_type": "Over",
+            "american_odds": 200,
+            "bookmaker": "Bet365"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "full_name": "Aurelien Tchouameni",
+    "match_name": "Spain v France",
+    "game_date": "2024-07-09",
+    "game_time": "19:00:00",
+    "stats": [
+      {
+        "stat_title": "Player Shots",
+        "stat_value": "1.5",
+        "underdog_stat": {
+          "over_multiplier": 1.5,
+          "under_multiplier": 0.7
+        },
+        "bet365_stat": [
+          {
+            "stat_type": "Over",
+            "american_odds": 162,
+            "bookmaker": "Bet365"
+          },
+          {
+            "stat_type": "Under",
+            "american_odds": -225,
+            "bookmaker": "Bet365"
+          }
+        ],
+        "kambi_stat": [
+          {
+            "stat_type": "Under",
+            "american_odds": -222,
+            "bookmaker": "Kambi"
+          },
+          {
+            "stat_type": "Over",
+            "american_odds": 143,
+            "bookmaker": "Kambi"
+          }
+        ]
+      },
+      {
+        "stat_title": "Player Shots On Target",
+        "stat_value": "0.5",
+        "underdog_stat": {
+          "over_multiplier": 2.0,
+          "under_multiplier": null
+        },
+        "bet365_stat": [
+          {
+            "stat_type": "Under",
+            "american_odds": -450,
+            "bookmaker": "Bet365"
+          },
+          {
+            "stat_type": "Over",
+            "american_odds": 300,
+            "bookmaker": "Bet365"
+          }
+        ],
+        "kambi_stat": [
+          {
+            "stat_type": "Under",
+            "american_odds": -417,
+            "bookmaker": "Kambi"
+          },
+          {
+            "stat_type": "Over",
+            "american_odds": 255,
+            "bookmaker": "Kambi"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "full_name": "Dayot Upamecano",
+    "match_name": "Spain v France",
+    "game_date": "2024-07-09",
+    "game_time": "19:00:00",
+    "stats": [
+      {
+        "stat_title": "Player Shots",
+        "stat_value": "0.5",
+        "underdog_stat": {
+          "over_multiplier": 1.75,
+          "under_multiplier": 0.7
+        },
+        "bet365_stat": [
+          {
+            "stat_type": "Over",
+            "american_odds": 225,
+            "bookmaker": "Bet365"
+          },
+          {
+            "stat_type": "Under",
+            "american_odds": -300,
+            "bookmaker": "Bet365"
+          }
+        ],
+        "kambi_stat": [
+          {
+            "stat_type": "Under",
+            "american_odds": -333,
+            "bookmaker": "Kambi"
+          },
+          {
+            "stat_type": "Over",
+            "american_odds": 195,
+            "bookmaker": "Kambi"
+          }
+        ]
+      },
+      {
+        "stat_title": "Player Shots On Target",
+        "stat_value": "0.5",
+        "underdog_stat": {
+          "over_multiplier": 5.0,
+          "under_multiplier": null
+        },
+        "bet365_stat": [
+          {
+            "stat_type": "Under",
+            "american_odds": -1587,
+            "bookmaker": "Bet365"
+          },
+          {
+            "stat_type": "Over",
+            "american_odds": 900,
+            "bookmaker": "Bet365"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "full_name": "William Saliba",
+    "match_name": "Spain v France",
+    "game_date": "2024-07-09",
+    "game_time": "19:00:00",
+    "stats": [
+      {
+        "stat_title": "Player Shots",
+        "stat_value": "0.5",
+        "underdog_stat": {
+          "over_multiplier": 2.0,
+          "under_multiplier": null
+        },
+        "bet365_stat": [
+          {
+            "stat_type": "Over",
+            "american_odds": 275,
+            "bookmaker": "Bet365"
+          },
+          {
+            "stat_type": "Under",
+            "american_odds": -400,
+            "bookmaker": "Bet365"
+          }
+        ]
+      },
+      {
+        "stat_title": "Player Shots On Target",
+        "stat_value": "0.5",
+        "underdog_stat": {
+          "over_multiplier": 5.5,
+          "under_multiplier": null
+        },
+        "bet365_stat": [
+          {
+            "stat_type": "Under",
+            "american_odds": -2000,
+            "bookmaker": "Bet365"
+          },
+          {
+            "stat_type": "Over",
+            "american_odds": 1000,
+            "bookmaker": "Bet365"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "full_name": "Adrien Rabiot",
+    "match_name": "Spain v France",
+    "game_date": "2024-07-09",
+    "game_time": "19:00:00",
+    "stats": [
+      {
+        "stat_title": "Player Shots",
+        "stat_value": "0.5",
+        "underdog_stat": {
+          "over_multiplier": 1.0,
+          "under_multiplier": 1.0
+        },
+        "bet365_stat": [
+          {
+            "stat_type": "Under",
+            "american_odds": -110,
+            "bookmaker": "Bet365"
+          },
+          {
+            "stat_type": "Over",
+            "american_odds": -125,
+            "bookmaker": "Bet365"
+          }
+        ],
+        "kambi_stat": [
+          {
+            "stat_type": "Over",
+            "american_odds": -127,
+            "bookmaker": "Kambi"
+          },
+          {
+            "stat_type": "Under",
+            "american_odds": -119,
+            "bookmaker": "Kambi"
+          }
+        ]
+      },
+      {
+        "stat_title": "Player Shots On Target",
+        "stat_value": "0.5",
+        "underdog_stat": {
+          "over_multiplier": 2.0,
+          "under_multiplier": null
+        },
+        "bet365_stat": [
+          {
+            "stat_type": "Under",
+            "american_odds": -450,
+            "bookmaker": "Bet365"
+          },
+          {
+            "stat_type": "Over",
+            "american_odds": 300,
+            "bookmaker": "Bet365"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "full_name": "Jules Kounde",
+    "match_name": "Spain v France",
+    "game_date": "2024-07-09",
+    "game_time": "19:00:00",
+    "stats": [
+      {
+        "stat_title": "Player Shots",
+        "stat_value": "0.5",
+        "underdog_stat": {
+          "over_multiplier": 1.75,
+          "under_multiplier": 0.7
+        },
+        "bet365_stat": [
+          {
+            "stat_type": "Over",
+            "american_odds": 225,
+            "bookmaker": "Bet365"
+          },
+          {
+            "stat_type": "Under",
+            "american_odds": -300,
+            "bookmaker": "Bet365"
+          }
+        ],
+        "kambi_stat": [
+          {
+            "stat_type": "Under",
+            "american_odds": -476,
+            "bookmaker": "Kambi"
+          },
+          {
+            "stat_type": "Over",
+            "american_odds": 265,
+            "bookmaker": "Kambi"
+          }
+        ]
+      },
+      {
+        "stat_title": "Player Shots On Target",
+        "stat_value": "0.5",
+        "underdog_stat": {
+          "over_multiplier": 5.0,
+          "under_multiplier": null
+        },
+        "bet365_stat": [
+          {
+            "stat_type": "Under",
+            "american_odds": -1587,
+            "bookmaker": "Bet365"
+          },
+          {
+            "stat_type": "Over",
+            "american_odds": 900,
+            "bookmaker": "Bet365"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "full_name": "Fabian Ruiz",
+    "match_name": "Spain v France",
+    "game_date": "2024-07-09",
+    "game_time": "19:00:00",
+    "stats": [
+      {
+        "stat_title": "Player Shots",
+        "stat_value": "1.5",
+        "underdog_stat": {
+          "over_multiplier": 1.0,
+          "under_multiplier": 1.0
+        },
+        "bet365_stat": [
+          {
+            "stat_type": "Over",
+            "american_odds": -150,
+            "bookmaker": "Bet365"
+          },
+          {
+            "stat_type": "Under",
+            "american_odds": 110,
+            "bookmaker": "Bet365"
+          }
+        ],
+        "kambi_stat": [
+          {
+            "stat_type": "Under",
+            "american_odds": -118,
+            "bookmaker": "Kambi"
+          },
+          {
+            "stat_type": "Over",
+            "american_odds": -130,
+            "bookmaker": "Kambi"
+          }
+        ]
+      },
+      {
+        "stat_title": "Player Shots On Target",
+        "stat_value": "0.5",
+        "underdog_stat": {
+          "over_multiplier": 1.25,
+          "under_multiplier": 0.8
+        },
+        "bet365_stat": [
+          {
+            "stat_type": "Under",
+            "american_odds": -163,
+            "bookmaker": "Bet365"
+          },
+          {
+            "stat_type": "Over",
+            "american_odds": 120,
+            "bookmaker": "Bet365"
+          }
+        ],
+        "kambi_stat": [
+          {
+            "stat_type": "Under",
+            "american_odds": -164,
+            "bookmaker": "Kambi"
+          },
+          {
+            "stat_type": "Over",
+            "american_odds": 115,
+            "bookmaker": "Kambi"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "full_name": "Marc Cucurella",
+    "match_name": "Spain v France",
+    "game_date": "2024-07-09",
+    "game_time": "19:00:00",
+    "stats": [
+      {
+        "stat_title": "Player Shots",
+        "stat_value": "0.5",
+        "underdog_stat": {
+          "over_multiplier": 1.75,
+          "under_multiplier": 0.7
+        },
+        "bet365_stat": [
+          {
+            "stat_type": "Over",
+            "american_odds": 200,
+            "bookmaker": "Bet365"
+          },
+          {
+            "stat_type": "Under",
+            "american_odds": -275,
+            "bookmaker": "Bet365"
+          }
+        ],
+        "kambi_stat": [
+          {
+            "stat_type": "Under",
+            "american_odds": -385,
+            "bookmaker": "Kambi"
+          },
+          {
+            "stat_type": "Over",
+            "american_odds": 220,
+            "bookmaker": "Kambi"
+          }
+        ]
+      },
+      {
+        "stat_title": "Player Shots On Target",
+        "stat_value": "0.5",
+        "underdog_stat": {
+          "over_multiplier": 4.0,
+          "under_multiplier": null
+        },
+        "bet365_stat": [
+          {
+            "stat_type": "Under",
+            "american_odds": -1205,
+            "bookmaker": "Bet365"
+          },
+          {
+            "stat_type": "Over",
+            "american_odds": 700,
+            "bookmaker": "Bet365"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "full_name": "Jesus Navas",
+    "match_name": "Spain v France",
+    "game_date": "2024-07-09",
+    "game_time": "19:00:00",
+    "stats": [
+      {
+        "stat_title": "Player Shots",
+        "stat_value": "0.5",
+        "underdog_stat": {
+          "over_multiplier": 1.1,
+          "under_multiplier": 0.9
+        },
+        "bet365_stat": [
+          {
+            "stat_type": "Over",
+            "american_odds": 138,
+            "bookmaker": "Bet365"
+          },
+          {
+            "stat_type": "Under",
+            "american_odds": -188,
+            "bookmaker": "Bet365"
+          }
+        ],
+        "kambi_stat": [
+          {
+            "stat_type": "Under",
+            "american_odds": -200,
+            "bookmaker": "Kambi"
+          },
+          {
+            "stat_type": "Over",
+            "american_odds": 123,
+            "bookmaker": "Kambi"
+          }
+        ]
+      },
+      {
+        "stat_title": "Player Shots On Target",
+        "stat_value": "0.5",
+        "underdog_stat": {
+          "over_multiplier": 2.75,
+          "under_multiplier": null
+        },
+        "bet365_stat": [
+          {
+            "stat_type": "Under",
+            "american_odds": -699,
+            "bookmaker": "Bet365"
+          },
+          {
+            "stat_type": "Over",
+            "american_odds": 450,
+            "bookmaker": "Bet365"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "full_name": "Theo Hernandez",
+    "match_name": "Spain v France",
+    "game_date": "2024-07-09",
+    "game_time": "19:00:00",
+    "stats": [
+      {
+        "stat_title": "Player Shots",
+        "stat_value": "0.5",
+        "underdog_stat": {
+          "over_multiplier": 1.1,
+          "under_multiplier": 0.9
+        },
+        "bet365_stat": [
+          {
+            "stat_type": "Over",
+            "american_odds": 100,
+            "bookmaker": "Bet365"
+          },
+          {
+            "stat_type": "Under",
+            "american_odds": -138,
+            "bookmaker": "Bet365"
+          }
+        ],
+        "kambi_stat": [
+          {
+            "stat_type": "Under",
+            "american_odds": -125,
+            "bookmaker": "Kambi"
+          },
+          {
+            "stat_type": "Over",
+            "american_odds": -122,
+            "bookmaker": "Kambi"
+          }
+        ]
+      },
+      {
+        "stat_title": "Player Shots On Target",
+        "stat_value": "0.5",
+        "underdog_stat": {
+          "over_multiplier": 2.75,
+          "under_multiplier": null
+        },
+        "bet365_stat": [
+          {
+            "stat_type": "Under",
+            "american_odds": -699,
+            "bookmaker": "Bet365"
+          },
+          {
+            "stat_type": "Over",
+            "american_odds": 450,
+            "bookmaker": "Bet365"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "full_name": "Aymeric Laporte",
+    "match_name": "Spain v France",
+    "game_date": "2024-07-09",
+    "game_time": "19:00:00",
+    "stats": [
+      {
+        "stat_title": "Player Shots",
+        "stat_value": "0.5",
+        "underdog_stat": {
+          "over_multiplier": 1.25,
+          "under_multiplier": 0.8
+        },
+        "bet365_stat": [
+          {
+            "stat_type": "Over",
+            "american_odds": 150,
+            "bookmaker": "Bet365"
+          },
+          {
+            "stat_type": "Under",
+            "american_odds": -200,
+            "bookmaker": "Bet365"
+          }
+        ],
+        "kambi_stat": [
+          {
+            "stat_type": "Under",
+            "american_odds": -172,
+            "bookmaker": "Kambi"
+          },
+          {
+            "stat_type": "Over",
+            "american_odds": 108,
+            "bookmaker": "Kambi"
+          }
+        ]
+      },
+      {
+        "stat_title": "Player Shots On Target",
+        "stat_value": "0.5",
+        "underdog_stat": {
+          "over_multiplier": 3.0,
+          "under_multiplier": null
+        },
+        "bet365_stat": [
+          {
+            "stat_type": "Under",
+            "american_odds": -800,
+            "bookmaker": "Bet365"
+          },
+          {
+            "stat_type": "Over",
+            "american_odds": 500,
+            "bookmaker": "Bet365"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "full_name": "Lamine Yamal",
+    "match_name": "Spain v France",
+    "game_date": "2024-07-09",
+    "game_time": "19:00:00",
+    "stats": [
+      {
+        "stat_title": "Player Shots",
+        "stat_value": "1.5",
+        "underdog_stat": {
+          "over_multiplier": 0.8,
+          "under_multiplier": 1.2
+        },
+        "bet365_stat": [
+          {
+            "stat_type": "Under",
+            "american_odds": 138,
+            "bookmaker": "Bet365"
+          },
+          {
+            "stat_type": "Over",
+            "american_odds": -188,
+            "bookmaker": "Bet365"
+          }
+        ],
+        "kambi_stat": [
+          {
+            "stat_type": "Over",
+            "american_odds": -159,
+            "bookmaker": "Kambi"
+          },
+          {
+            "stat_type": "Under",
+            "american_odds": 105,
+            "bookmaker": "Kambi"
+          }
+        ]
+      },
+      {
+        "stat_title": "Player Shots On Target",
+        "stat_value": "0.5",
+        "underdog_stat": {
+          "over_multiplier": 1.0,
+          "under_multiplier": 1.0
+        },
+        "bet365_stat": [
+          {
+            "stat_type": "Over",
+            "american_odds": -138,
+            "bookmaker": "Bet365"
+          },
+          {
+            "stat_type": "Under",
+            "american_odds": 100,
+            "bookmaker": "Bet365"
+          }
+        ],
+        "kambi_stat": [
+          {
+            "stat_type": "Over",
+            "american_odds": -116,
+            "bookmaker": "Kambi"
+          },
+          {
+            "stat_type": "Under",
+            "american_odds": -122,
+            "bookmaker": "Kambi"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "full_name": "Bukayo Saka",
+    "match_name": "Netherlands v England",
+    "game_date": "2024-07-10",
+    "game_time": "19:00:00",
+    "stats": [
+      {
+        "stat_title": "Player Shots",
+        "stat_value": "1.5",
+        "underdog_stat": {
+          "over_multiplier": 0.9,
+          "under_multiplier": 1.1
+        },
+        "bet365_stat": [
+          {
+            "stat_type": "Under",
+            "american_odds": 110,
+            "bookmaker": "Bet365"
+          },
+          {
+            "stat_type": "Over",
+            "american_odds": -150,
+            "bookmaker": "Bet365"
+          }
+        ],
+        "kambi_stat": [
+          {
+            "stat_type": "Over",
+            "american_odds": -154,
+            "bookmaker": "Kambi"
+          },
+          {
+            "stat_type": "Under",
+            "american_odds": 102,
+            "bookmaker": "Kambi"
+          }
+        ]
+      },
+      {
+        "stat_title": "Player Shots On Target",
+        "stat_value": "0.5",
+        "underdog_stat": {
+          "over_multiplier": 1.1,
+          "under_multiplier": 0.95
+        },
+        "bet365_stat": [
+          {
+            "stat_type": "Under",
+            "american_odds": -150,
+            "bookmaker": "Bet365"
+          },
+          {
+            "stat_type": "Over",
+            "american_odds": 110,
+            "bookmaker": "Bet365"
+          }
+        ],
+        "kambi_stat": [
+          {
+            "stat_type": "Under",
+            "american_odds": -147,
+            "bookmaker": "Kambi"
+          },
+          {
+            "stat_type": "Over",
+            "american_odds": 105,
+            "bookmaker": "Kambi"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "full_name": "Jude Bellingham",
+    "match_name": "Netherlands v England",
+    "game_date": "2024-07-10",
+    "game_time": "19:00:00",
+    "stats": [
+      {
+        "stat_title": "Player Shots",
+        "stat_value": "1.5",
+        "underdog_stat": {
+          "over_multiplier": 1.25,
+          "under_multiplier": 0.8
+        },
+        "bet365_stat": [
+          {
+            "stat_type": "Over",
+            "american_odds": 150,
+            "bookmaker": "Bet365"
+          },
+          {
+            "stat_type": "Under",
+            "american_odds": -200,
+            "bookmaker": "Bet365"
+          }
+        ],
+        "kambi_stat": [
+          {
+            "stat_type": "Under",
+            "american_odds": -200,
+            "bookmaker": "Kambi"
+          },
+          {
+            "stat_type": "Over",
+            "american_odds": 125,
+            "bookmaker": "Kambi"
+          }
+        ]
+      },
+      {
+        "stat_title": "Player Shots On Target",
+        "stat_value": "0.5",
+        "underdog_stat": {
+          "over_multiplier": 1.25,
+          "under_multiplier": 0.8
+        },
+        "bet365_stat": [
+          {
+            "stat_type": "Under",
+            "american_odds": -200,
+            "bookmaker": "Bet365"
+          },
+          {
+            "stat_type": "Over",
+            "american_odds": 150,
+            "bookmaker": "Bet365"
+          }
+        ],
+        "kambi_stat": [
+          {
+            "stat_type": "Under",
+            "american_odds": -182,
+            "bookmaker": "Kambi"
+          },
+          {
+            "stat_type": "Over",
+            "american_odds": 125,
+            "bookmaker": "Kambi"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "full_name": "Cody Gakpo",
+    "match_name": "Netherlands v England",
+    "game_date": "2024-07-10",
+    "game_time": "19:00:00",
+    "stats": [
+      {
+        "stat_title": "Player Shots",
+        "stat_value": "1.5",
+        "underdog_stat": {
+          "over_multiplier": 0.85,
+          "under_multiplier": 1.1
+        },
+        "bet365_stat": [
+          {
+            "stat_type": "Under",
+            "american_odds": 120,
+            "bookmaker": "Bet365"
+          },
+          {
+            "stat_type": "Over",
+            "american_odds": -163,
+            "bookmaker": "Bet365"
+          }
+        ],
+        "kambi_stat": [
+          {
+            "stat_type": "Over",
+            "american_odds": -164,
+            "bookmaker": "Kambi"
+          },
+          {
+            "stat_type": "Under",
+            "american_odds": 107,
+            "bookmaker": "Kambi"
+          }
+        ]
+      },
+      {
+        "stat_title": "Player Shots On Target",
+        "stat_value": "0.5",
+        "underdog_stat": {
+          "over_multiplier": 0.9,
+          "under_multiplier": 1.2
+        },
+        "bet365_stat": [
+          {
+            "stat_type": "Over",
+            "american_odds": -138,
+            "bookmaker": "Bet365"
+          },
+          {
+            "stat_type": "Under",
+            "american_odds": 100,
+            "bookmaker": "Bet365"
+          }
+        ],
+        "kambi_stat": [
+          {
+            "stat_type": "Over",
+            "american_odds": -164,
+            "bookmaker": "Kambi"
+          },
+          {
+            "stat_type": "Under",
+            "american_odds": 115,
+            "bookmaker": "Kambi"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "full_name": "Phil Foden",
+    "match_name": "Netherlands v England",
+    "game_date": "2024-07-10",
+    "game_time": "19:00:00",
+    "stats": [
+      {
+        "stat_title": "Player Shots",
+        "stat_value": "1.5",
+        "underdog_stat": {
+          "over_multiplier": 0.85,
+          "under_multiplier": 1.2
+        },
+        "bet365_stat": [
+          {
+            "stat_type": "Under",
+            "american_odds": 125,
+            "bookmaker": "Bet365"
+          },
+          {
+            "stat_type": "Over",
+            "american_odds": -175,
+            "bookmaker": "Bet365"
+          }
+        ],
+        "kambi_stat": [
+          {
+            "stat_type": "Over",
+            "american_odds": -175,
+            "bookmaker": "Kambi"
+          },
+          {
+            "stat_type": "Under",
+            "american_odds": 115,
+            "bookmaker": "Kambi"
+          }
+        ]
+      },
+      {
+        "stat_title": "Player Shots On Target",
+        "stat_value": "0.5",
+        "underdog_stat": {
+          "over_multiplier": 1.0,
+          "under_multiplier": 1.0
+        },
+        "bet365_stat": [
+          {
+            "stat_type": "Under",
+            "american_odds": -125,
+            "bookmaker": "Bet365"
+          },
+          {
+            "stat_type": "Over",
+            "american_odds": -110,
+            "bookmaker": "Bet365"
+          }
+        ],
+        "kambi_stat": [
+          {
+            "stat_type": "Under",
+            "american_odds": -137,
+            "bookmaker": "Kambi"
+          },
+          {
+            "stat_type": "Over",
+            "american_odds": -102,
+            "bookmaker": "Kambi"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "full_name": "Xavi Simons",
+    "match_name": "Netherlands v England",
+    "game_date": "2024-07-10",
+    "game_time": "19:00:00",
+    "stats": [
+      {
+        "stat_title": "Player Shots",
+        "stat_value": "1.5",
+        "underdog_stat": {
+          "over_multiplier": 1.25,
+          "under_multiplier": 0.75
+        },
+        "bet365_stat": [
+          {
+            "stat_type": "Over",
+            "american_odds": 162,
+            "bookmaker": "Bet365"
+          },
+          {
+            "stat_type": "Under",
+            "american_odds": -225,
+            "bookmaker": "Bet365"
+          }
+        ],
+        "kambi_stat": [
+          {
+            "stat_type": "Under",
+            "american_odds": -250,
+            "bookmaker": "Kambi"
+          },
+          {
+            "stat_type": "Over",
+            "american_odds": 155,
+            "bookmaker": "Kambi"
+          }
+        ]
+      },
+      {
+        "stat_title": "Player Shots On Target",
+        "stat_value": "0.5",
+        "underdog_stat": {
+          "over_multiplier": 1.25,
+          "under_multiplier": 0.8
+        },
+        "bet365_stat": [
+          {
+            "stat_type": "Under",
+            "american_odds": -200,
+            "bookmaker": "Bet365"
+          },
+          {
+            "stat_type": "Over",
+            "american_odds": 150,
+            "bookmaker": "Bet365"
+          }
+        ],
+        "kambi_stat": [
+          {
+            "stat_type": "Under",
+            "american_odds": -222,
+            "bookmaker": "Kambi"
+          },
+          {
+            "stat_type": "Over",
+            "american_odds": 155,
+            "bookmaker": "Kambi"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "full_name": "Declan Rice",
+    "match_name": "Netherlands v England",
+    "game_date": "2024-07-10",
+    "game_time": "19:00:00",
+    "stats": [
+      {
+        "stat_title": "Player Shots",
+        "stat_value": "0.5",
+        "underdog_stat": {
+          "over_multiplier": 0.8,
+          "under_multiplier": 1.25
+        },
+        "bet365_stat": [
+          {
+            "stat_type": "Under",
+            "american_odds": 150,
+            "bookmaker": "Bet365"
+          },
+          {
+            "stat_type": "Over",
+            "american_odds": -200,
+            "bookmaker": "Bet365"
+          }
+        ],
+        "kambi_stat": [
+          {
+            "stat_type": "Over",
+            "american_odds": -217,
+            "bookmaker": "Kambi"
+          },
+          {
+            "stat_type": "Under",
+            "american_odds": 140,
+            "bookmaker": "Kambi"
+          }
+        ]
+      },
+      {
+        "stat_title": "Player Shots On Target",
+        "stat_value": "0.5",
+        "underdog_stat": {
+          "over_multiplier": 1.75,
+          "under_multiplier": 0.7
+        },
+        "bet365_stat": [
+          {
+            "stat_type": "Under",
+            "american_odds": -350,
+            "bookmaker": "Bet365"
+          },
+          {
+            "stat_type": "Over",
+            "american_odds": 250,
+            "bookmaker": "Bet365"
+          }
+        ],
+        "kambi_stat": [
+          {
+            "stat_type": "Under",
+            "american_odds": -357,
+            "bookmaker": "Kambi"
+          },
+          {
+            "stat_type": "Over",
+            "american_odds": 230,
+            "bookmaker": "Kambi"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "full_name": "Kieran Trippier",
+    "match_name": "Netherlands v England",
+    "game_date": "2024-07-10",
+    "game_time": "19:00:00",
+    "stats": [
+      {
+        "stat_title": "Player Shots",
+        "stat_value": "0.5",
+        "underdog_stat": {
+          "over_multiplier": 1.25,
+          "under_multiplier": 0.8
+        },
+        "bet365_stat": [
+          {
+            "stat_type": "Over",
+            "american_odds": 150,
+            "bookmaker": "Bet365"
+          },
+          {
+            "stat_type": "Under",
+            "american_odds": -200,
+            "bookmaker": "Bet365"
+          }
+        ],
+        "kambi_stat": [
+          {
+            "stat_type": "Under",
+            "american_odds": -217,
+            "bookmaker": "Kambi"
+          },
+          {
+            "stat_type": "Over",
+            "american_odds": 140,
+            "bookmaker": "Kambi"
+          }
+        ]
+      },
+      {
+        "stat_title": "Player Shots On Target",
+        "stat_value": "0.5",
+        "underdog_stat": {
+          "over_multiplier": 3.5,
+          "under_multiplier": null
+        },
+        "bet365_stat": [
+          {
+            "stat_type": "Under",
+            "american_odds": -1000,
+            "bookmaker": "Bet365"
+          },
+          {
+            "stat_type": "Over",
+            "american_odds": 600,
+            "bookmaker": "Bet365"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "full_name": "Kyle Walker",
+    "match_name": "Netherlands v England",
+    "game_date": "2024-07-10",
+    "game_time": "19:00:00",
+    "stats": [
+      {
+        "stat_title": "Player Shots",
+        "stat_value": "0.5",
+        "underdog_stat": {
+          "over_multiplier": 1.5,
+          "under_multiplier": null
+        },
+        "bet365_stat": [
+          {
+            "stat_type": "Over",
+            "american_odds": 250,
+            "bookmaker": "Bet365"
+          },
+          {
+            "stat_type": "Under",
+            "american_odds": -350,
+            "bookmaker": "Bet365"
+          }
+        ],
+        "kambi_stat": [
+          {
+            "stat_type": "Under",
+            "american_odds": -417,
+            "bookmaker": "Kambi"
+          },
+          {
+            "stat_type": "Over",
+            "american_odds": 240,
+            "bookmaker": "Kambi"
+          }
+        ]
+      },
+      {
+        "stat_title": "Player Shots On Target",
+        "stat_value": "0.5",
+        "underdog_stat": {
+          "over_multiplier": 5.5,
+          "under_multiplier": null
+        },
+        "bet365_stat": [
+          {
+            "stat_type": "Under",
+            "american_odds": -2000,
+            "bookmaker": "Bet365"
+          },
+          {
+            "stat_type": "Over",
+            "american_odds": 1000,
+            "bookmaker": "Bet365"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "full_name": "Ezri Konsa",
+    "match_name": "Netherlands v England",
+    "game_date": "2024-07-10",
+    "game_time": "19:00:00",
+    "stats": [
+      {
+        "stat_title": "Player Shots",
+        "stat_value": "0.5",
+        "underdog_stat": {
+          "over_multiplier": 1.25,
+          "under_multiplier": 0.75
+        },
+        "bet365_stat": [
+          {
+            "stat_type": "Over",
+            "american_odds": 162,
+            "bookmaker": "Bet365"
+          },
+          {
+            "stat_type": "Under",
+            "american_odds": -225,
+            "bookmaker": "Bet365"
+          }
+        ],
+        "kambi_stat": [
+          {
+            "stat_type": "Under",
+            "american_odds": -286,
+            "bookmaker": "Kambi"
+          },
+          {
+            "stat_type": "Over",
+            "american_odds": 170,
+            "bookmaker": "Kambi"
+          }
+        ]
+      },
+      {
+        "stat_title": "Player Shots On Target",
+        "stat_value": "0.5",
+        "underdog_stat": {
+          "over_multiplier": 3.5,
+          "under_multiplier": null
+        },
+        "bet365_stat": [
+          {
+            "stat_type": "Under",
+            "american_odds": -1000,
+            "bookmaker": "Bet365"
+          },
+          {
+            "stat_type": "Over",
+            "american_odds": 600,
+            "bookmaker": "Bet365"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "full_name": "Nathan Ake",
+    "match_name": "Netherlands v England",
+    "game_date": "2024-07-10",
+    "game_time": "19:00:00",
+    "stats": [
+      {
+        "stat_title": "Player Shots",
+        "stat_value": "0.5",
+        "underdog_stat": {
+          "over_multiplier": 1.25,
+          "under_multiplier": 0.8
+        },
+        "bet365_stat": [
+          {
+            "stat_type": "Over",
+            "american_odds": 150,
+            "bookmaker": "Bet365"
+          },
+          {
+            "stat_type": "Under",
+            "american_odds": -200,
+            "bookmaker": "Bet365"
+          }
+        ],
+        "kambi_stat": [
+          {
+            "stat_type": "Under",
+            "american_odds": -312,
+            "bookmaker": "Kambi"
+          },
+          {
+            "stat_type": "Over",
+            "american_odds": 180,
+            "bookmaker": "Kambi"
+          }
+        ]
+      },
+      {
+        "stat_title": "Player Shots On Target",
+        "stat_value": "0.5",
+        "underdog_stat": {
+          "over_multiplier": 3.25,
+          "under_multiplier": null
+        },
+        "bet365_stat": [
+          {
+            "stat_type": "Under",
+            "american_odds": -901,
+            "bookmaker": "Bet365"
+          },
+          {
+            "stat_type": "Over",
+            "american_odds": 550,
+            "bookmaker": "Bet365"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "full_name": "Memphis Depay",
+    "match_name": "Netherlands v England",
+    "game_date": "2024-07-10",
+    "game_time": "19:00:00",
+    "stats": [
+      {
+        "stat_title": "Player Shots",
+        "stat_value": "2.5",
+        "underdog_stat": {
+          "over_multiplier": 1.1,
+          "under_multiplier": 0.9
+        },
+        "bet365_stat": [
+          {
+            "stat_type": "Over",
+            "american_odds": 100,
+            "bookmaker": "Bet365"
+          },
+          {
+            "stat_type": "Under",
+            "american_odds": -138,
+            "bookmaker": "Bet365"
+          }
+        ],
+        "kambi_stat": [
+          {
+            "stat_type": "Under",
+            "american_odds": -159,
+            "bookmaker": "Kambi"
+          },
+          {
+            "stat_type": "Over",
+            "american_odds": 105,
+            "bookmaker": "Kambi"
+          }
+        ]
+      },
+      {
+        "stat_title": "Player Shots On Target",
+        "stat_value": "0.5",
+        "underdog_stat": {
+          "over_multiplier": 0.9,
+          "under_multiplier": 1.1
+        },
+        "bet365_stat": [
+          {
+            "stat_type": "Over",
+            "american_odds": -138,
+            "bookmaker": "Bet365"
+          },
+          {
+            "stat_type": "Under",
+            "american_odds": 100,
+            "bookmaker": "Bet365"
+          }
+        ],
+        "kambi_stat": [
+          {
+            "stat_type": "Over",
+            "american_odds": -127,
+            "bookmaker": "Kambi"
+          },
+          {
+            "stat_type": "Under",
+            "american_odds": -111,
+            "bookmaker": "Kambi"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "full_name": "Denzel Dumfries",
+    "match_name": "Netherlands v England",
+    "game_date": "2024-07-10",
+    "game_time": "19:00:00",
+    "stats": [
+      {
+        "stat_title": "Player Shots",
+        "stat_value": "0.5",
+        "underdog_stat": {
+          "over_multiplier": 1.05,
+          "under_multiplier": 0.9
+        },
+        "bet365_stat": [
+          {
+            "stat_type": "Over",
+            "american_odds": 100,
+            "bookmaker": "Bet365"
+          },
+          {
+            "stat_type": "Under",
+            "american_odds": -138,
+            "bookmaker": "Bet365"
+          }
+        ],
+        "kambi_stat": [
+          {
+            "stat_type": "Under",
+            "american_odds": -204,
+            "bookmaker": "Kambi"
+          },
+          {
+            "stat_type": "Over",
+            "american_odds": 133,
+            "bookmaker": "Kambi"
+          }
+        ]
+      },
+      {
+        "stat_title": "Player Shots On Target",
+        "stat_value": "0.5",
+        "underdog_stat": {
+          "over_multiplier": 2.5,
+          "under_multiplier": null
+        },
+        "bet365_stat": [
+          {
+            "stat_type": "Under",
+            "american_odds": -599,
+            "bookmaker": "Bet365"
+          },
+          {
+            "stat_type": "Over",
+            "american_odds": 400,
+            "bookmaker": "Bet365"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "full_name": "Steven Bergwijn",
+    "match_name": "Netherlands v England",
+    "game_date": "2024-07-10",
+    "game_time": "19:00:00",
+    "stats": [
+      {
+        "stat_title": "Player Shots",
+        "stat_value": "1.5",
+        "underdog_stat": {
+          "over_multiplier": 1.25,
+          "under_multiplier": 0.8
+        },
+        "bet365_stat": [
+          {
+            "stat_type": "Over",
+            "american_odds": 150,
+            "bookmaker": "Bet365"
+          },
+          {
+            "stat_type": "Under",
+            "american_odds": -200,
+            "bookmaker": "Bet365"
+          }
+        ],
+        "kambi_stat": [
+          {
+            "stat_type": "Under",
+            "american_odds": -286,
+            "bookmaker": "Kambi"
+          },
+          {
+            "stat_type": "Over",
+            "american_odds": 170,
+            "bookmaker": "Kambi"
+          }
+        ]
+      },
+      {
+        "stat_title": "Player Shots On Target",
+        "stat_value": "0.5",
+        "underdog_stat": {
+          "over_multiplier": 1.25,
+          "under_multiplier": 0.8
+        },
+        "bet365_stat": [
+          {
+            "stat_type": "Under",
+            "american_odds": -200,
+            "bookmaker": "Bet365"
+          },
+          {
+            "stat_type": "Over",
+            "american_odds": 150,
+            "bookmaker": "Bet365"
+          }
+        ],
+        "kambi_stat": [
+          {
+            "stat_type": "Under",
+            "american_odds": -244,
+            "bookmaker": "Kambi"
+          },
+          {
+            "stat_type": "Over",
+            "american_odds": 165,
+            "bookmaker": "Kambi"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "full_name": "Jerdy Schouten",
+    "match_name": "Netherlands v England",
+    "game_date": "2024-07-10",
+    "game_time": "19:00:00",
+    "stats": [
+      {
+        "stat_title": "Player Shots",
+        "stat_value": "0.5",
+        "underdog_stat": {
+          "over_multiplier": 1.25,
+          "under_multiplier": 0.75
+        },
+        "bet365_stat": [
+          {
+            "stat_type": "Over",
+            "american_odds": 175,
+            "bookmaker": "Bet365"
+          },
+          {
+            "stat_type": "Under",
+            "american_odds": -250,
+            "bookmaker": "Bet365"
+          }
+        ],
+        "kambi_stat": [
+          {
+            "stat_type": "Under",
+            "american_odds": -400,
+            "bookmaker": "Kambi"
+          },
+          {
+            "stat_type": "Over",
+            "american_odds": 230,
+            "bookmaker": "Kambi"
+          }
+        ]
+      },
+      {
+        "stat_title": "Player Shots On Target",
+        "stat_value": "0.5",
+        "underdog_stat": {
+          "over_multiplier": 3.0,
+          "under_multiplier": null
+        },
+        "bet365_stat": [
+          {
+            "stat_type": "Under",
+            "american_odds": -800,
+            "bookmaker": "Bet365"
+          },
+          {
+            "stat_type": "Over",
+            "american_odds": 500,
+            "bookmaker": "Bet365"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "full_name": "Kobbie Mainoo",
+    "match_name": "Netherlands v England",
+    "game_date": "2024-07-10",
+    "game_time": "19:00:00",
+    "stats": [
+      {
+        "stat_title": "Player Shots",
+        "stat_value": "0.5",
+        "underdog_stat": {
+          "over_multiplier": 0.85,
+          "under_multiplier": 1.1
+        },
+        "bet365_stat": [
+          {
+            "stat_type": "Under",
+            "american_odds": 120,
+            "bookmaker": "Bet365"
+          },
+          {
+            "stat_type": "Over",
+            "american_odds": -163,
+            "bookmaker": "Bet365"
+          }
+        ],
+        "kambi_stat": [
+          {
+            "stat_type": "Over",
+            "american_odds": -167,
+            "bookmaker": "Kambi"
+          },
+          {
+            "stat_type": "Under",
+            "american_odds": 108,
+            "bookmaker": "Kambi"
+          }
+        ]
+      },
+      {
+        "stat_title": "Player Shots On Target",
+        "stat_value": "0.5",
+        "underdog_stat": {
+          "over_multiplier": 2.5,
+          "under_multiplier": null
+        },
+        "bet365_stat": [
+          {
+            "stat_type": "Under",
+            "american_odds": -599,
+            "bookmaker": "Bet365"
+          },
+          {
+            "stat_type": "Over",
+            "american_odds": 400,
+            "bookmaker": "Bet365"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "full_name": "John Stones",
+    "match_name": "Netherlands v England",
+    "game_date": "2024-07-10",
+    "game_time": "19:00:00",
+    "stats": [
+      {
+        "stat_title": "Player Shots",
+        "stat_value": "0.5",
+        "underdog_stat": {
+          "over_multiplier": 2.25,
+          "under_multiplier": null
+        },
+        "bet365_stat": [
+          {
+            "stat_type": "Over",
+            "american_odds": 350,
+            "bookmaker": "Bet365"
+          },
+          {
+            "stat_type": "Under",
+            "american_odds": -549,
+            "bookmaker": "Bet365"
+          }
+        ],
+        "kambi_stat": [
+          {
+            "stat_type": "Under",
+            "american_odds": -526,
+            "bookmaker": "Kambi"
+          },
+          {
+            "stat_type": "Over",
+            "american_odds": 280,
+            "bookmaker": "Kambi"
+          }
+        ]
+      },
+      {
+        "stat_title": "Player Shots On Target",
+        "stat_value": "0.5",
+        "underdog_stat": {
+          "over_multiplier": 5.5,
+          "under_multiplier": null
+        },
+        "bet365_stat": [
+          {
+            "stat_type": "Under",
+            "american_odds": -2000,
+            "bookmaker": "Bet365"
+          },
+          {
+            "stat_type": "Over",
+            "american_odds": 1000,
+            "bookmaker": "Bet365"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "full_name": "Jonathan Osorio",
+    "match_name": "Argentina v Canada",
+    "game_date": "2024-07-10",
+    "game_time": "00:00:00",
+    "stats": [
+      {
+        "stat_title": "Player Shots",
+        "stat_value": "0.5",
+        "underdog_stat": {
+          "over_multiplier": 1.0,
+          "under_multiplier": 1.0
+        },
+        "bet365_stat": [
+          {
+            "stat_type": "Over",
+            "american_odds": -125,
+            "bookmaker": "Bet365"
+          },
+          {
+            "stat_type": "Under",
+            "american_odds": -110,
+            "bookmaker": "Bet365"
+          }
+        ],
+        "kambi_stat": [
+          {
+            "stat_type": "Under",
+            "american_odds": -135,
+            "bookmaker": "Kambi"
+          },
+          {
+            "stat_type": "Over",
+            "american_odds": -112,
+            "bookmaker": "Kambi"
+          }
+        ]
+      },
+      {
+        "stat_title": "Player Shots On Target",
+        "stat_value": "0.5",
+        "underdog_stat": {
+          "over_multiplier": 3.0,
+          "under_multiplier": null
+        },
+        "bet365_stat": [
+          {
+            "stat_type": "Under",
+            "american_odds": -800,
+            "bookmaker": "Bet365"
+          },
+          {
+            "stat_type": "Over",
+            "american_odds": 500,
+            "bookmaker": "Bet365"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "full_name": "Ismael Kone",
+    "match_name": "Argentina v Canada",
+    "game_date": "2024-07-10",
+    "game_time": "00:00:00",
+    "stats": [
+      {
+        "stat_title": "Player Shots",
+        "stat_value": "0.5",
+        "underdog_stat": {
+          "over_multiplier": 0.8,
+          "under_multiplier": 1.2
+        },
+        "bet365_stat": [
+          {
+            "stat_type": "Under",
+            "american_odds": 120,
+            "bookmaker": "Bet365"
+          },
+          {
+            "stat_type": "Over",
+            "american_odds": -163,
+            "bookmaker": "Bet365"
+          }
+        ]
+      },
+      {
+        "stat_title": "Player Shots On Target",
+        "stat_value": "0.5",
+        "underdog_stat": {
+          "over_multiplier": 2.25,
+          "under_multiplier": null
+        },
+        "bet365_stat": [
+          {
+            "stat_type": "Under",
+            "american_odds": -549,
+            "bookmaker": "Bet365"
+          },
+          {
+            "stat_type": "Over",
+            "american_odds": 350,
+            "bookmaker": "Bet365"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "full_name": "Moise Bombito",
+    "match_name": "Argentina v Canada",
+    "game_date": "2024-07-10",
+    "game_time": "00:00:00",
+    "stats": [
+      {
+        "stat_title": "Player Shots",
+        "stat_value": "0.5",
+        "underdog_stat": {
+          "over_multiplier": 1.5,
+          "under_multiplier": 0.7
+        },
+        "bet365_stat": [
+          {
+            "stat_type": "Over",
+            "american_odds": 175,
+            "bookmaker": "Bet365"
+          },
+          {
+            "stat_type": "Under",
+            "american_odds": -250,
+            "bookmaker": "Bet365"
+          }
+        ],
+        "kambi_stat": [
+          {
+            "stat_type": "Under",
+            "american_odds": -370,
+            "bookmaker": "Kambi"
+          },
+          {
+            "stat_type": "Over",
+            "american_odds": 215,
+            "bookmaker": "Kambi"
+          }
+        ]
+      },
+      {
+        "stat_title": "Player Shots On Target",
+        "stat_value": "0.5",
+        "underdog_stat": {
+          "over_multiplier": 5.5,
+          "under_multiplier": null
+        },
+        "bet365_stat": [
+          {
+            "stat_type": "Under",
+            "american_odds": -2000,
+            "bookmaker": "Bet365"
+          },
+          {
+            "stat_type": "Over",
+            "american_odds": 1000,
+            "bookmaker": "Bet365"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "full_name": "Liam Millar",
+    "match_name": "Argentina v Canada",
+    "game_date": "2024-07-10",
+    "game_time": "00:00:00",
+    "stats": [
+      {
+        "stat_title": "Player Shots",
+        "stat_value": "0.5",
+        "underdog_stat": {
+          "over_multiplier": 0.75,
+          "under_multiplier": 1.25
+        },
+        "bet365_stat": [
+          {
+            "stat_type": "Under",
+            "american_odds": 150,
+            "bookmaker": "Bet365"
+          },
+          {
+            "stat_type": "Over",
+            "american_odds": -200,
+            "bookmaker": "Bet365"
+          }
+        ]
+      },
+      {
+        "stat_title": "Player Shots On Target",
+        "stat_value": "0.5",
+        "underdog_stat": {
+          "over_multiplier": 1.5,
+          "under_multiplier": 0.75
+        },
+        "bet365_stat": [
+          {
+            "stat_type": "Under",
+            "american_odds": -250,
+            "bookmaker": "Bet365"
+          },
+          {
+            "stat_type": "Over",
+            "american_odds": 175,
+            "bookmaker": "Bet365"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "full_name": "Lionel Messi",
+    "match_name": "Argentina v Canada",
+    "game_date": "2024-07-10",
+    "game_time": "00:00:00",
+    "stats": [
+      {
+        "stat_title": "Player Shots",
+        "stat_value": "3.5",
+        "underdog_stat": {
+          "over_multiplier": 0.9,
+          "under_multiplier": 1.1
+        },
+        "bet365_stat": [
+          {
+            "stat_type": "Over",
+            "american_odds": -163,
+            "bookmaker": "Bet365"
+          },
+          {
+            "stat_type": "Under",
+            "american_odds": 120,
+            "bookmaker": "Bet365"
+          }
+        ],
+        "kambi_stat": [
+          {
+            "stat_type": "Under",
+            "american_odds": -119,
+            "bookmaker": "Kambi"
+          },
+          {
+            "stat_type": "Over",
+            "american_odds": -128,
+            "bookmaker": "Kambi"
+          }
+        ]
+      },
+      {
+        "stat_title": "Player Shots On Target",
+        "stat_value": "1.5",
+        "underdog_stat": {
+          "over_multiplier": 1.0,
+          "under_multiplier": 1.0
+        },
+        "bet365_stat": [
+          {
+            "stat_type": "Over",
+            "american_odds": -125,
+            "bookmaker": "Bet365"
+          },
+          {
+            "stat_type": "Under",
+            "american_odds": -110,
+            "bookmaker": "Bet365"
+          }
+        ],
+        "kambi_stat": [
+          {
+            "stat_type": "Over",
+            "american_odds": -116,
+            "bookmaker": "Kambi"
+          },
+          {
+            "stat_type": "Under",
+            "american_odds": -122,
+            "bookmaker": "Kambi"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "full_name": "Jonathan David",
+    "match_name": "Argentina v Canada",
+    "game_date": "2024-07-10",
+    "game_time": "00:00:00",
+    "stats": [
+      {
+        "stat_title": "Player Shots",
+        "stat_value": "1.5",
+        "underdog_stat": {
+          "over_multiplier": 1.2,
+          "under_multiplier": 0.85
+        },
+        "bet365_stat": [
+          {
+            "stat_type": "Over",
+            "american_odds": 120,
+            "bookmaker": "Bet365"
+          },
+          {
+            "stat_type": "Under",
+            "american_odds": -163,
+            "bookmaker": "Bet365"
+          }
+        ],
+        "kambi_stat": [
+          {
+            "stat_type": "Under",
+            "american_odds": -244,
+            "bookmaker": "Kambi"
+          },
+          {
+            "stat_type": "Over",
+            "american_odds": 155,
+            "bookmaker": "Kambi"
+          }
+        ]
+      },
+      {
+        "stat_title": "Player Shots On Target",
+        "stat_value": "0.5",
+        "underdog_stat": {
+          "over_multiplier": 1.1,
+          "under_multiplier": 0.9
+        },
+        "bet365_stat": [
+          {
+            "stat_type": "Under",
+            "american_odds": -138,
+            "bookmaker": "Bet365"
+          },
+          {
+            "stat_type": "Over",
+            "american_odds": 100,
+            "bookmaker": "Bet365"
+          }
+        ],
+        "kambi_stat": [
+          {
+            "stat_type": "Under",
+            "american_odds": -179,
+            "bookmaker": "Kambi"
+          },
+          {
+            "stat_type": "Over",
+            "american_odds": 123,
+            "bookmaker": "Kambi"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "full_name": "Luis Diaz",
+    "match_name": "Uruguay v Colombia",
+    "game_date": "2024-07-11",
+    "game_time": "00:00:00",
+    "stats": [
+      {
+        "stat_title": "Player Shots",
+        "stat_value": "2.5",
+        "underdog_stat": {
+          "over_multiplier": 1.25,
+          "under_multiplier": 0.8
+        },
+        "bet365_stat": [
+          {
+            "stat_type": "Over",
+            "american_odds": 138,
+            "bookmaker": "Bet365"
+          },
+          {
+            "stat_type": "Under",
+            "american_odds": -188,
+            "bookmaker": "Bet365"
+          }
+        ],
+        "kambi_stat": [
+          {
+            "stat_type": "Under",
+            "american_odds": -263,
+            "bookmaker": "Kambi"
+          },
+          {
+            "stat_type": "Over",
+            "american_odds": 163,
+            "bookmaker": "Kambi"
+          }
+        ]
+      },
+      {
+        "stat_title": "Player Shots On Target",
+        "stat_value": "0.5",
+        "underdog_stat": {
+          "over_multiplier": 0.9,
+          "under_multiplier": 1.2
+        },
+        "bet365_stat": [
+          {
+            "stat_type": "Over",
+            "american_odds": -138,
+            "bookmaker": "Bet365"
+          },
+          {
+            "stat_type": "Under",
+            "american_odds": 100,
+            "bookmaker": "Bet365"
+          }
+        ],
+        "kambi_stat": [
+          {
+            "stat_type": "Over",
+            "american_odds": -147,
+            "bookmaker": "Kambi"
+          },
+          {
+            "stat_type": "Under",
+            "american_odds": 102,
+            "bookmaker": "Kambi"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "full_name": "Jhon Arias",
+    "match_name": "Uruguay v Colombia",
+    "game_date": "2024-07-11",
+    "game_time": "00:00:00",
+    "stats": [
+      {
+        "stat_title": "Player Shots",
+        "stat_value": "0.5",
+        "underdog_stat": {
+          "over_multiplier": 0.9,
+          "under_multiplier": 1.1
+        },
+        "bet365_stat": [
+          {
+            "stat_type": "Under",
+            "american_odds": 110,
+            "bookmaker": "Bet365"
+          },
+          {
+            "stat_type": "Over",
+            "american_odds": -150,
+            "bookmaker": "Bet365"
+          }
+        ],
+        "kambi_stat": [
+          {
+            "stat_type": "Over",
+            "american_odds": -143,
+            "bookmaker": "Kambi"
+          },
+          {
+            "stat_type": "Under",
+            "american_odds": -105,
+            "bookmaker": "Kambi"
+          }
+        ]
+      },
+      {
+        "stat_title": "Player Shots On Target",
+        "stat_value": "0.5",
+        "underdog_stat": {
+          "over_multiplier": 1.75,
+          "under_multiplier": null
+        },
+        "bet365_stat": [
+          {
+            "stat_type": "Under",
+            "american_odds": -350,
+            "bookmaker": "Bet365"
+          },
+          {
+            "stat_type": "Over",
+            "american_odds": 250,
+            "bookmaker": "Bet365"
+          }
+        ],
+        "kambi_stat": [
+          {
+            "stat_type": "Under",
+            "american_odds": -417,
+            "bookmaker": "Kambi"
+          },
+          {
+            "stat_type": "Over",
+            "american_odds": 265,
+            "bookmaker": "Kambi"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "full_name": "Jhon Cordoba",
+    "match_name": "Uruguay v Colombia",
+    "game_date": "2024-07-11",
+    "game_time": "00:00:00",
+    "stats": [
+      {
+        "stat_title": "Player Shots",
+        "stat_value": "1.5",
+        "underdog_stat": {
+          "over_multiplier": 0.85,
+          "under_multiplier": 1.1
+        },
+        "bet365_stat": [
+          {
+            "stat_type": "Under",
+            "american_odds": 120,
+            "bookmaker": "Bet365"
+          },
+          {
+            "stat_type": "Over",
+            "american_odds": -163,
+            "bookmaker": "Bet365"
+          }
+        ],
+        "kambi_stat": [
+          {
+            "stat_type": "Over",
+            "american_odds": -147,
+            "bookmaker": "Kambi"
+          },
+          {
+            "stat_type": "Under",
+            "american_odds": -102,
+            "bookmaker": "Kambi"
+          }
+        ]
+      },
+      {
+        "stat_title": "Player Shots On Target",
+        "stat_value": "0.5",
+        "underdog_stat": {
+          "over_multiplier": 0.95,
+          "under_multiplier": 1.1
+        },
+        "bet365_stat": [
+          {
+            "stat_type": "Over",
+            "american_odds": -125,
+            "bookmaker": "Bet365"
+          },
+          {
+            "stat_type": "Under",
+            "american_odds": -110,
+            "bookmaker": "Bet365"
+          }
+        ],
+        "kambi_stat": [
+          {
+            "stat_type": "Over",
+            "american_odds": -112,
+            "bookmaker": "Kambi"
+          },
+          {
+            "stat_type": "Under",
+            "american_odds": -125,
+            "bookmaker": "Kambi"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "full_name": "Jacob Shaffelburg",
+    "match_name": "Argentina v Canada",
+    "game_date": "2024-07-10",
+    "game_time": "00:00:00",
+    "stats": [
+      {
+        "stat_title": "Player Shots",
+        "stat_value": "1.5",
+        "underdog_stat": {
+          "over_multiplier": 1.5,
+          "under_multiplier": 0.75
+        },
+        "bet365_stat": [
+          {
+            "stat_type": "Over",
+            "american_odds": 175,
+            "bookmaker": "Bet365"
+          }
+        ],
+        "kambi_stat": [
+          {
+            "stat_type": "Under",
+            "american_odds": -400,
+            "bookmaker": "Kambi"
+          },
+          {
+            "stat_type": "Over",
+            "american_odds": 230,
+            "bookmaker": "Kambi"
+          }
+        ]
+      },
+      {
+        "stat_title": "Player Shots On Target",
+        "stat_value": "0.5",
+        "underdog_stat": {
+          "over_multiplier": 1.25,
+          "under_multiplier": 0.8
+        },
+        "bet365_stat": [
+          {
+            "stat_type": "Under",
+            "american_odds": -175,
+            "bookmaker": "Bet365"
+          },
+          {
+            "stat_type": "Over",
+            "american_odds": 125,
+            "bookmaker": "Bet365"
+          }
+        ],
+        "kambi_stat": [
+          {
+            "stat_type": "Under",
+            "american_odds": -250,
+            "bookmaker": "Kambi"
+          },
+          {
+            "stat_type": "Over",
+            "american_odds": 165,
+            "bookmaker": "Kambi"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "full_name": "Alexis Mac Allister",
+    "match_name": "Argentina v Canada",
+    "game_date": "2024-07-10",
+    "game_time": "00:00:00",
+    "stats": [
+      {
+        "stat_title": "Player Shots",
+        "stat_value": "1.5",
+        "underdog_stat": {
+          "over_multiplier": 1.2,
+          "under_multiplier": 0.85
+        },
+        "bet365_stat": [
+          {
+            "stat_type": "Over",
+            "american_odds": -110,
+            "bookmaker": "Bet365"
+          },
+          {
+            "stat_type": "Under",
+            "american_odds": -125,
+            "bookmaker": "Bet365"
+          }
+        ],
+        "kambi_stat": [
+          {
+            "stat_type": "Under",
+            "american_odds": -192,
+            "bookmaker": "Kambi"
+          },
+          {
+            "stat_type": "Over",
+            "american_odds": 123,
+            "bookmaker": "Kambi"
+          }
+        ]
+      },
+      {
+        "stat_title": "Player Shots On Target",
+        "stat_value": "0.5",
+        "underdog_stat": {
+          "over_multiplier": 1.25,
+          "under_multiplier": 0.8
+        },
+        "bet365_stat": [
+          {
+            "stat_type": "Under",
+            "american_odds": -188,
+            "bookmaker": "Bet365"
+          },
+          {
+            "stat_type": "Over",
+            "american_odds": 138,
+            "bookmaker": "Bet365"
+          }
+        ],
+        "kambi_stat": [
+          {
+            "stat_type": "Under",
+            "american_odds": -204,
+            "bookmaker": "Kambi"
+          },
+          {
+            "stat_type": "Over",
+            "american_odds": 140,
+            "bookmaker": "Kambi"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "full_name": "Richard Rios",
+    "match_name": "Uruguay v Colombia",
+    "game_date": "2024-07-11",
+    "game_time": "00:00:00",
+    "stats": [
+      {
+        "stat_title": "Player Shots",
+        "stat_value": "0.5",
+        "underdog_stat": {
+          "over_multiplier": 0.85,
+          "under_multiplier": 1.2
+        },
+        "bet365_stat": [
+          {
+            "stat_type": "Under",
+            "american_odds": 125,
+            "bookmaker": "Bet365"
+          },
+          {
+            "stat_type": "Over",
+            "american_odds": -175,
+            "bookmaker": "Bet365"
+          }
+        ],
+        "kambi_stat": [
+          {
+            "stat_type": "Over",
+            "american_odds": -149,
+            "bookmaker": "Kambi"
+          },
+          {
+            "stat_type": "Under",
+            "american_odds": -102,
+            "bookmaker": "Kambi"
+          }
+        ]
+      },
+      {
+        "stat_title": "Player Shots On Target",
+        "stat_value": "0.5",
+        "underdog_stat": {
+          "over_multiplier": 1.75,
+          "under_multiplier": null
+        },
+        "bet365_stat": [
+          {
+            "stat_type": "Under",
+            "american_odds": -400,
+            "bookmaker": "Bet365"
+          },
+          {
+            "stat_type": "Over",
+            "american_odds": 275,
+            "bookmaker": "Bet365"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "full_name": "Cristian Romero",
+    "match_name": "Argentina v Canada",
+    "game_date": "2024-07-10",
+    "game_time": "00:00:00",
+    "stats": [
+      {
+        "stat_title": "Player Shots",
+        "stat_value": "0.5",
+        "underdog_stat": {
+          "over_multiplier": 1.2,
+          "under_multiplier": 0.85
+        },
+        "bet365_stat": [
+          {
+            "stat_type": "Over",
+            "american_odds": -110,
+            "bookmaker": "Bet365"
+          },
+          {
+            "stat_type": "Under",
+            "american_odds": -125,
+            "bookmaker": "Bet365"
+          }
+        ],
+        "kambi_stat": [
+          {
+            "stat_type": "Under",
+            "american_odds": -182,
+            "bookmaker": "Kambi"
+          },
+          {
+            "stat_type": "Over",
+            "american_odds": 118,
+            "bookmaker": "Kambi"
+          }
+        ]
+      },
+      {
+        "stat_title": "Player Shots On Target",
+        "stat_value": "0.5",
+        "underdog_stat": {
+          "over_multiplier": 2.25,
+          "under_multiplier": null
+        },
+        "bet365_stat": [
+          {
+            "stat_type": "Under",
+            "american_odds": -549,
+            "bookmaker": "Bet365"
+          },
+          {
+            "stat_type": "Over",
+            "american_odds": 350,
+            "bookmaker": "Bet365"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "full_name": "Facundo Pellistri",
+    "match_name": "Uruguay v Colombia",
+    "game_date": "2024-07-11",
+    "game_time": "00:00:00",
+    "stats": [
+      {
+        "stat_title": "Player Shots",
+        "stat_value": "1.5",
+        "underdog_stat": {
+          "over_multiplier": 1.1,
+          "under_multiplier": 0.85
+        },
+        "bet365_stat": [
+          {
+            "stat_type": "Over",
+            "american_odds": 120,
+            "bookmaker": "Bet365"
+          },
+          {
+            "stat_type": "Under",
+            "american_odds": -163,
+            "bookmaker": "Bet365"
+          }
+        ],
+        "kambi_stat": [
+          {
+            "stat_type": "Under",
+            "american_odds": -278,
+            "bookmaker": "Kambi"
+          },
+          {
+            "stat_type": "Over",
+            "american_odds": 165,
+            "bookmaker": "Kambi"
+          }
+        ]
+      },
+      {
+        "stat_title": "Player Shots On Target",
+        "stat_value": "0.5",
+        "underdog_stat": {
+          "over_multiplier": 1.1,
+          "under_multiplier": 0.9
+        },
+        "bet365_stat": [
+          {
+            "stat_type": "Under",
+            "american_odds": -163,
+            "bookmaker": "Bet365"
+          },
+          {
+            "stat_type": "Over",
+            "american_odds": 120,
+            "bookmaker": "Bet365"
+          }
+        ],
+        "kambi_stat": [
+          {
+            "stat_type": "Under",
+            "american_odds": -185,
+            "bookmaker": "Kambi"
+          },
+          {
+            "stat_type": "Over",
+            "american_odds": 128,
+            "bookmaker": "Kambi"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "full_name": "Daniel Munoz",
+    "match_name": "Uruguay v Colombia",
+    "game_date": "2024-07-11",
+    "game_time": "00:00:00",
+    "stats": [
+      {
+        "stat_title": "Player Shots",
+        "stat_value": "0.5",
+        "underdog_stat": {
+          "over_multiplier": 0.9,
+          "under_multiplier": 1.05
+        },
+        "bet365_stat": [
+          {
+            "stat_type": "Over",
+            "american_odds": -138,
+            "bookmaker": "Bet365"
+          },
+          {
+            "stat_type": "Under",
+            "american_odds": 100,
+            "bookmaker": "Bet365"
+          }
+        ],
+        "kambi_stat": [
+          {
+            "stat_type": "Under",
+            "american_odds": -154,
+            "bookmaker": "Kambi"
+          },
+          {
+            "stat_type": "Over",
+            "american_odds": 102,
+            "bookmaker": "Kambi"
+          }
+        ]
+      },
+      {
+        "stat_title": "Player Shots On Target",
+        "stat_value": "0.5",
+        "underdog_stat": {
+          "over_multiplier": 2.0,
+          "under_multiplier": null
+        },
+        "bet365_stat": [
+          {
+            "stat_type": "Under",
+            "american_odds": -500,
+            "bookmaker": "Bet365"
+          },
+          {
+            "stat_type": "Over",
+            "american_odds": 333,
+            "bookmaker": "Bet365"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "full_name": "Nicolas Gonzalez",
+    "match_name": "Argentina v Canada",
+    "game_date": "2024-07-10",
+    "game_time": "00:00:00",
+    "stats": [
+      {
+        "stat_title": "Player Shots",
+        "stat_value": "1.5",
+        "underdog_stat": {
+          "over_multiplier": 0.9,
+          "under_multiplier": 1.1
+        },
+        "bet365_stat": [
+          {
+            "stat_type": "Under",
+            "american_odds": 120,
+            "bookmaker": "Bet365"
+          },
+          {
+            "stat_type": "Over",
+            "american_odds": -163,
+            "bookmaker": "Bet365"
+          }
+        ],
+        "kambi_stat": [
+          {
+            "stat_type": "Over",
+            "american_odds": -122,
+            "bookmaker": "Kambi"
+          },
+          {
+            "stat_type": "Under",
+            "american_odds": -127,
+            "bookmaker": "Kambi"
+          }
+        ]
+      },
+      {
+        "stat_title": "Player Shots On Target",
+        "stat_value": "0.5",
+        "underdog_stat": {
+          "over_multiplier": 1.1,
+          "under_multiplier": 0.9
+        },
+        "bet365_stat": [
+          {
+            "stat_type": "Under",
+            "american_odds": -138,
+            "bookmaker": "Bet365"
+          },
+          {
+            "stat_type": "Over",
+            "american_odds": 100,
+            "bookmaker": "Bet365"
+          }
+        ],
+        "kambi_stat": [
+          {
+            "stat_type": "Under",
+            "american_odds": -141,
+            "bookmaker": "Kambi"
+          },
+          {
+            "stat_type": "Over",
+            "american_odds": 100,
+            "bookmaker": "Kambi"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "full_name": "Leandro Paredes",
+    "match_name": "Argentina v Canada",
+    "game_date": "2024-07-10",
+    "game_time": "00:00:00",
+    "stats": [
+      {
+        "stat_title": "Player Shots",
+        "stat_value": "0.5",
+        "underdog_stat": {
+          "over_multiplier": 0.8,
+          "under_multiplier": 1.2
+        },
+        "bet365_stat": [
+          {
+            "stat_type": "Under",
+            "american_odds": 125,
+            "bookmaker": "Bet365"
+          },
+          {
+            "stat_type": "Over",
+            "american_odds": -175,
+            "bookmaker": "Bet365"
+          }
+        ]
+      },
+      {
+        "stat_title": "Player Shots On Target",
+        "stat_value": "0.5",
+        "underdog_stat": {
+          "over_multiplier": 1.75,
+          "under_multiplier": 0.7
+        },
+        "bet365_stat": [
+          {
+            "stat_type": "Under",
+            "american_odds": -300,
+            "bookmaker": "Bet365"
+          },
+          {
+            "stat_type": "Over",
+            "american_odds": 225,
+            "bookmaker": "Bet365"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "full_name": "Federico Valverde",
+    "match_name": "Uruguay v Colombia",
+    "game_date": "2024-07-11",
+    "game_time": "00:00:00",
+    "stats": [
+      {
+        "stat_title": "Player Shots",
+        "stat_value": "1.5",
+        "underdog_stat": {
+          "over_multiplier": 1.0,
+          "under_multiplier": 1.0
+        },
+        "bet365_stat": [
+          {
+            "stat_type": "Over",
+            "american_odds": -125,
+            "bookmaker": "Bet365"
+          },
+          {
+            "stat_type": "Under",
+            "american_odds": -110,
+            "bookmaker": "Bet365"
+          }
+        ],
+        "kambi_stat": [
+          {
+            "stat_type": "Under",
+            "american_odds": -139,
+            "bookmaker": "Kambi"
+          },
+          {
+            "stat_type": "Over",
+            "american_odds": -108,
+            "bookmaker": "Kambi"
+          }
+        ]
+      },
+      {
+        "stat_title": "Player Shots On Target",
+        "stat_value": "0.5",
+        "underdog_stat": {
+          "over_multiplier": 1.2,
+          "under_multiplier": 0.9
+        },
+        "bet365_stat": [
+          {
+            "stat_type": "Under",
+            "american_odds": -175,
+            "bookmaker": "Bet365"
+          },
+          {
+            "stat_type": "Over",
+            "american_odds": 125,
+            "bookmaker": "Bet365"
+          }
+        ],
+        "kambi_stat": [
+          {
+            "stat_type": "Under",
+            "american_odds": -200,
+            "bookmaker": "Kambi"
+          },
+          {
+            "stat_type": "Over",
+            "american_odds": 138,
+            "bookmaker": "Kambi"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "full_name": "Lautaro Martinez",
+    "match_name": "Argentina v Canada",
+    "game_date": "2024-07-10",
+    "game_time": "00:00:00",
+    "stats": [
+      {
+        "stat_title": "Player Shots",
+        "stat_value": "2.5",
+        "underdog_stat": {
+          "over_multiplier": 1.0,
+          "under_multiplier": 1.0
+        },
+        "bet365_stat": [
+          {
+            "stat_type": "Under",
+            "american_odds": 100,
+            "bookmaker": "Bet365"
+          },
+          {
+            "stat_type": "Over",
+            "american_odds": -138,
+            "bookmaker": "Bet365"
+          }
+        ],
+        "kambi_stat": [
+          {
+            "stat_type": "Over",
+            "american_odds": -108,
+            "bookmaker": "Kambi"
+          },
+          {
+            "stat_type": "Under",
+            "american_odds": -137,
+            "bookmaker": "Kambi"
+          }
+        ]
+      },
+      {
+        "stat_title": "Player Shots On Target",
+        "stat_value": "0.5",
+        "underdog_stat": {
+          "over_multiplier": 0.75,
+          "under_multiplier": 1.25
+        },
+        "bet365_stat": [
+          {
+            "stat_type": "Over",
+            "american_odds": -225,
+            "bookmaker": "Bet365"
+          },
+          {
+            "stat_type": "Under",
+            "american_odds": 162,
+            "bookmaker": "Bet365"
+          }
+        ],
+        "kambi_stat": [
+          {
+            "stat_type": "Over",
+            "american_odds": -227,
+            "bookmaker": "Kambi"
+          },
+          {
+            "stat_type": "Under",
+            "american_odds": 155,
+            "bookmaker": "Kambi"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "full_name": "Cyle Larin",
+    "match_name": "Argentina v Canada",
+    "game_date": "2024-07-10",
+    "game_time": "00:00:00",
+    "stats": [
+      {
+        "stat_title": "Player Shots",
+        "stat_value": "1.5",
+        "underdog_stat": {
+          "over_multiplier": 1.2,
+          "under_multiplier": 0.85
+        },
+        "bet365_stat": [
+          {
+            "stat_type": "Over",
+            "american_odds": -120,
+            "bookmaker": "Bet365"
+          },
+          {
+            "stat_type": "Under",
+            "american_odds": -120,
+            "bookmaker": "Bet365"
+          }
+        ],
+        "kambi_stat": [
+          {
+            "stat_type": "Under",
+            "american_odds": -200,
+            "bookmaker": "Kambi"
+          },
+          {
+            "stat_type": "Over",
+            "american_odds": 125,
+            "bookmaker": "Kambi"
+          }
+        ]
+      },
+      {
+        "stat_title": "Player Shots On Target",
+        "stat_value": "0.5",
+        "underdog_stat": {
+          "over_multiplier": 1.0,
+          "under_multiplier": 1.0
+        },
+        "bet365_stat": [
+          {
+            "stat_type": "Under",
+            "american_odds": -110,
+            "bookmaker": "Bet365"
+          },
+          {
+            "stat_type": "Over",
+            "american_odds": -125,
+            "bookmaker": "Bet365"
+          }
+        ],
+        "kambi_stat": [
+          {
+            "stat_type": "Under",
+            "american_odds": -156,
+            "bookmaker": "Kambi"
+          },
+          {
+            "stat_type": "Over",
+            "american_odds": 110,
+            "bookmaker": "Kambi"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "full_name": "Darwin Nunez",
+    "match_name": "Uruguay v Colombia",
+    "game_date": "2024-07-11",
+    "game_time": "00:00:00",
+    "stats": [
+      {
+        "stat_title": "Player Shots",
+        "stat_value": "2.5",
+        "underdog_stat": {
+          "over_multiplier": 0.85,
+          "under_multiplier": 1.2
+        },
+        "bet365_stat": [
+          {
+            "stat_type": "Under",
+            "american_odds": 125,
+            "bookmaker": "Bet365"
+          },
+          {
+            "stat_type": "Over",
+            "american_odds": -175,
+            "bookmaker": "Bet365"
+          }
+        ],
+        "kambi_stat": [
+          {
+            "stat_type": "Over",
+            "american_odds": -128,
+            "bookmaker": "Kambi"
+          },
+          {
+            "stat_type": "Under",
+            "american_odds": -119,
+            "bookmaker": "Kambi"
+          }
+        ]
+      },
+      {
+        "stat_title": "Player Shots On Target",
+        "stat_value": "0.5",
+        "underdog_stat": {
+          "over_multiplier": 0.75,
+          "under_multiplier": 1.5
+        },
+        "bet365_stat": [
+          {
+            "stat_type": "Over",
+            "american_odds": -225,
+            "bookmaker": "Bet365"
+          },
+          {
+            "stat_type": "Under",
+            "american_odds": 162,
+            "bookmaker": "Bet365"
+          }
+        ],
+        "kambi_stat": [
+          {
+            "stat_type": "Over",
+            "american_odds": -189,
+            "bookmaker": "Kambi"
+          },
+          {
+            "stat_type": "Under",
+            "american_odds": 132,
+            "bookmaker": "Kambi"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "full_name": "Alphonso Davies",
+    "match_name": "Argentina v Canada",
+    "game_date": "2024-07-10",
+    "game_time": "00:00:00",
+    "stats": [
+      {
+        "stat_title": "Player Shots",
+        "stat_value": "0.5",
+        "underdog_stat": {
+          "over_multiplier": 0.9,
+          "under_multiplier": 1.1
+        },
+        "bet365_stat": [
+          {
+            "stat_type": "Over",
+            "american_odds": -125,
+            "bookmaker": "Bet365"
+          },
+          {
+            "stat_type": "Under",
+            "american_odds": -110,
+            "bookmaker": "Bet365"
+          }
+        ],
+        "kambi_stat": [
+          {
+            "stat_type": "Under",
+            "american_odds": -123,
+            "bookmaker": "Kambi"
+          },
+          {
+            "stat_type": "Over",
+            "american_odds": -123,
+            "bookmaker": "Kambi"
+          }
+        ]
+      },
+      {
+        "stat_title": "Player Shots On Target",
+        "stat_value": "0.5",
+        "underdog_stat": {
+          "over_multiplier": 2.0,
+          "under_multiplier": null
+        },
+        "bet365_stat": [
+          {
+            "stat_type": "Under",
+            "american_odds": -450,
+            "bookmaker": "Bet365"
+          },
+          {
+            "stat_type": "Over",
+            "american_odds": 300,
+            "bookmaker": "Bet365"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "full_name": "Richie Laryea",
+    "match_name": "Argentina v Canada",
+    "game_date": "2024-07-10",
+    "game_time": "00:00:00",
+    "stats": [
+      {
+        "stat_title": "Player Shots",
+        "stat_value": "0.5",
+        "underdog_stat": {
+          "over_multiplier": 1.0,
+          "under_multiplier": 1.0
+        },
+        "bet365_stat": [
+          {
+            "stat_type": "Over",
+            "american_odds": -120,
+            "bookmaker": "Bet365"
+          },
+          {
+            "stat_type": "Under",
+            "american_odds": -120,
+            "bookmaker": "Bet365"
+          }
+        ],
+        "kambi_stat": [
+          {
+            "stat_type": "Under",
+            "american_odds": -139,
+            "bookmaker": "Kambi"
+          },
+          {
+            "stat_type": "Over",
+            "american_odds": -106,
+            "bookmaker": "Kambi"
+          }
+        ]
+      },
+      {
+        "stat_title": "Player Shots On Target",
+        "stat_value": "0.5",
+        "underdog_stat": {
+          "over_multiplier": 1.75,
+          "under_multiplier": 0.7
+        },
+        "bet365_stat": [
+          {
+            "stat_type": "Under",
+            "american_odds": -300,
+            "bookmaker": "Bet365"
+          },
+          {
+            "stat_type": "Over",
+            "american_odds": 225,
+            "bookmaker": "Bet365"
+          }
+        ],
+        "kambi_stat": [
+          {
+            "stat_type": "Under",
+            "american_odds": -370,
+            "bookmaker": "Kambi"
+          },
+          {
+            "stat_type": "Over",
+            "american_odds": 230,
+            "bookmaker": "Kambi"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "full_name": "Rodrigo De Paul",
+    "match_name": "Argentina v Canada",
+    "game_date": "2024-07-10",
+    "game_time": "00:00:00",
+    "stats": [
+      {
+        "stat_title": "Player Shots",
+        "stat_value": "1.5",
+        "underdog_stat": {
+          "over_multiplier": 1.25,
+          "under_multiplier": 0.8
+        },
+        "bet365_stat": [
+          {
+            "stat_type": "Over",
+            "american_odds": 150,
+            "bookmaker": "Bet365"
+          },
+          {
+            "stat_type": "Under",
+            "american_odds": -200,
+            "bookmaker": "Bet365"
+          }
+        ],
+        "kambi_stat": [
+          {
+            "stat_type": "Under",
+            "american_odds": -333,
+            "bookmaker": "Kambi"
+          },
+          {
+            "stat_type": "Over",
+            "american_odds": 190,
+            "bookmaker": "Kambi"
+          }
+        ]
+      },
+      {
+        "stat_title": "Player Shots On Target",
+        "stat_value": "0.5",
+        "underdog_stat": {
+          "over_multiplier": 1.5,
+          "under_multiplier": 0.75
+        },
+        "bet365_stat": [
+          {
+            "stat_type": "Under",
+            "american_odds": -250,
+            "bookmaker": "Bet365"
+          },
+          {
+            "stat_type": "Over",
+            "american_odds": 175,
+            "bookmaker": "Bet365"
+          }
+        ],
+        "kambi_stat": [
+          {
+            "stat_type": "Under",
+            "american_odds": -385,
+            "bookmaker": "Kambi"
+          },
+          {
+            "stat_type": "Over",
+            "american_odds": 240,
+            "bookmaker": "Kambi"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "full_name": "Manuel Ugarte",
+    "match_name": "Uruguay v Colombia",
+    "game_date": "2024-07-11",
+    "game_time": "00:00:00",
+    "stats": [
+      {
+        "stat_title": "Player Shots",
+        "stat_value": "0.5",
+        "underdog_stat": {
+          "over_multiplier": 1.0,
+          "under_multiplier": 1.0
+        },
+        "bet365_stat": [
+          {
+            "stat_type": "Over",
+            "american_odds": -125,
+            "bookmaker": "Bet365"
+          },
+          {
+            "stat_type": "Under",
+            "american_odds": -110,
+            "bookmaker": "Bet365"
+          }
+        ],
+        "kambi_stat": [
+          {
+            "stat_type": "Under",
+            "american_odds": -172,
+            "bookmaker": "Kambi"
+          },
+          {
+            "stat_type": "Over",
+            "american_odds": 112,
+            "bookmaker": "Kambi"
+          }
+        ]
+      },
+      {
+        "stat_title": "Player Shots On Target",
+        "stat_value": "0.5",
+        "underdog_stat": {
+          "over_multiplier": 2.0,
+          "under_multiplier": null
+        },
+        "bet365_stat": [
+          {
+            "stat_type": "Under",
+            "american_odds": -500,
+            "bookmaker": "Bet365"
+          },
+          {
+            "stat_type": "Over",
+            "american_odds": 333,
+            "bookmaker": "Bet365"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "full_name": "Lisandro Martinez",
+    "match_name": "Argentina v Canada",
+    "game_date": "2024-07-10",
+    "game_time": "00:00:00",
+    "stats": [
+      {
+        "stat_title": "Player Shots",
+        "stat_value": "0.5",
+        "underdog_stat": {
+          "over_multiplier": 1.0,
+          "under_multiplier": 1.0
+        },
+        "bet365_stat": [
+          {
+            "stat_type": "Under",
+            "american_odds": 125,
+            "bookmaker": "Bet365"
+          },
+          {
+            "stat_type": "Over",
+            "american_odds": -175,
+            "bookmaker": "Bet365"
+          }
+        ],
+        "kambi_stat": [
+          {
+            "stat_type": "Over",
+            "american_odds": -130,
+            "bookmaker": "Kambi"
+          },
+          {
+            "stat_type": "Under",
+            "american_odds": -119,
+            "bookmaker": "Kambi"
+          }
+        ]
+      },
+      {
+        "stat_title": "Player Shots On Target",
+        "stat_value": "0.5",
+        "underdog_stat": {
+          "over_multiplier": 2.0,
+          "under_multiplier": null
+        },
+        "bet365_stat": [
+          {
+            "stat_type": "Under",
+            "american_odds": -450,
+            "bookmaker": "Bet365"
+          },
+          {
+            "stat_type": "Over",
+            "american_odds": 300,
+            "bookmaker": "Bet365"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "full_name": "Alistair Johnston",
+    "match_name": "Argentina v Canada",
+    "game_date": "2024-07-10",
+    "game_time": "00:00:00",
+    "stats": [
+      {
+        "stat_title": "Player Shots",
+        "stat_value": "0.5",
+        "underdog_stat": {
+          "over_multiplier": 1.75,
+          "under_multiplier": 0.7
+        },
+        "bet365_stat": [
+          {
+            "stat_type": "Over",
+            "american_odds": 225,
+            "bookmaker": "Bet365"
+          },
+          {
+            "stat_type": "Under",
+            "american_odds": -300,
+            "bookmaker": "Bet365"
+          }
+        ]
+      },
+      {
+        "stat_title": "Player Shots On Target",
+        "stat_value": "0.5",
+        "underdog_stat": {
+          "over_multiplier": 4.5,
+          "under_multiplier": null
+        },
+        "bet365_stat": [
+          {
+            "stat_type": "Under",
+            "american_odds": -1408,
+            "bookmaker": "Bet365"
+          },
+          {
+            "stat_type": "Over",
+            "american_odds": 800,
+            "bookmaker": "Bet365"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "full_name": "James Rodriguez",
+    "match_name": "Uruguay v Colombia",
+    "game_date": "2024-07-11",
+    "game_time": "00:00:00",
+    "stats": [
+      {
+        "stat_title": "Player Shots",
+        "stat_value": "1.5",
+        "underdog_stat": {
+          "over_multiplier": 0.85,
+          "under_multiplier": 1.1
+        },
+        "bet365_stat": [
+          {
+            "stat_type": "Under",
+            "american_odds": 120,
+            "bookmaker": "Bet365"
+          },
+          {
+            "stat_type": "Over",
+            "american_odds": -163,
+            "bookmaker": "Bet365"
+          }
+        ],
+        "kambi_stat": [
+          {
+            "stat_type": "Over",
+            "american_odds": -127,
+            "bookmaker": "Kambi"
+          },
+          {
+            "stat_type": "Under",
+            "american_odds": -119,
+            "bookmaker": "Kambi"
+          }
+        ]
+      },
+      {
+        "stat_title": "Player Shots On Target",
+        "stat_value": "0.5",
+        "underdog_stat": {
+          "over_multiplier": 1.0,
+          "under_multiplier": 1.0
+        },
+        "bet365_stat": [
+          {
+            "stat_type": "Under",
+            "american_odds": -120,
+            "bookmaker": "Bet365"
+          },
+          {
+            "stat_type": "Over",
+            "american_odds": -120,
+            "bookmaker": "Bet365"
+          }
+        ],
+        "kambi_stat": [
+          {
+            "stat_type": "Under",
+            "american_odds": -132,
+            "bookmaker": "Kambi"
+          },
+          {
+            "stat_type": "Over",
+            "american_odds": -106,
+            "bookmaker": "Kambi"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "full_name": "Nahuel Molina",
+    "match_name": "Argentina v Canada",
+    "game_date": "2024-07-10",
+    "game_time": "00:00:00",
+    "stats": [
+      {
+        "stat_title": "Player Shots",
+        "stat_value": "0.5",
+        "underdog_stat": {
+          "over_multiplier": 1.25,
+          "under_multiplier": 0.8
+        },
+        "bet365_stat": [
+          {
+            "stat_type": "Over",
+            "american_odds": 138,
+            "bookmaker": "Bet365"
+          },
+          {
+            "stat_type": "Under",
+            "american_odds": -188,
+            "bookmaker": "Bet365"
+          }
+        ],
+        "kambi_stat": [
+          {
+            "stat_type": "Under",
+            "american_odds": -227,
+            "bookmaker": "Kambi"
+          },
+          {
+            "stat_type": "Over",
+            "american_odds": 148,
+            "bookmaker": "Kambi"
+          }
+        ]
+      },
+      {
+        "stat_title": "Player Shots On Target",
+        "stat_value": "0.5",
+        "underdog_stat": {
+          "over_multiplier": 3.25,
+          "under_multiplier": null
+        },
+        "bet365_stat": [
+          {
+            "stat_type": "Under",
+            "american_odds": -901,
+            "bookmaker": "Bet365"
+          },
+          {
+            "stat_type": "Over",
+            "american_odds": 550,
+            "bookmaker": "Bet365"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "full_name": "Enzo Fernandez",
+    "match_name": "Argentina v Canada",
+    "game_date": "2024-07-10",
+    "game_time": "00:00:00",
+    "stats": [
+      {
+        "stat_title": "Player Shots",
+        "stat_value": "1.5",
+        "underdog_stat": {
+          "over_multiplier": 1.0,
+          "under_multiplier": 1.0
+        },
+        "bet365_stat": [
+          {
+            "stat_type": "Under",
+            "american_odds": 120,
+            "bookmaker": "Bet365"
+          },
+          {
+            "stat_type": "Over",
+            "american_odds": -163,
+            "bookmaker": "Bet365"
+          }
+        ],
+        "kambi_stat": [
+          {
+            "stat_type": "Over",
+            "american_odds": -122,
+            "bookmaker": "Kambi"
+          },
+          {
+            "stat_type": "Under",
+            "american_odds": -127,
+            "bookmaker": "Kambi"
+          }
+        ]
+      },
+      {
+        "stat_title": "Player Shots On Target",
+        "stat_value": "0.5",
+        "underdog_stat": {
+          "over_multiplier": 1.1,
+          "under_multiplier": 0.9
+        },
+        "bet365_stat": [
+          {
+            "stat_type": "Under",
+            "american_odds": -138,
+            "bookmaker": "Bet365"
+          },
+          {
+            "stat_type": "Over",
+            "american_odds": 100,
+            "bookmaker": "Bet365"
+          }
+        ],
+        "kambi_stat": [
+          {
+            "stat_type": "Under",
+            "american_odds": -143,
+            "bookmaker": "Kambi"
+          },
+          {
+            "stat_type": "Over",
+            "american_odds": 102,
+            "bookmaker": "Kambi"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "full_name": "Matias Vina",
+    "match_name": "Uruguay v Colombia",
+    "game_date": "2024-07-11",
+    "game_time": "00:00:00",
+    "stats": [
+      {
+        "stat_title": "Player Shots",
+        "stat_value": "0.5",
+        "underdog_stat": {
+          "over_multiplier": 1.05,
+          "under_multiplier": 0.9
+        },
+        "bet365_stat": [
+          {
+            "stat_type": "Over",
+            "american_odds": 100,
+            "bookmaker": "Bet365"
+          },
+          {
+            "stat_type": "Under",
+            "american_odds": -138,
+            "bookmaker": "Bet365"
+          }
+        ],
+        "kambi_stat": [
+          {
+            "stat_type": "Under",
+            "american_odds": -147,
+            "bookmaker": "Kambi"
+          },
+          {
+            "stat_type": "Over",
+            "american_odds": -103,
+            "bookmaker": "Kambi"
+          }
+        ]
+      },
+      {
+        "stat_title": "Player Shots On Target",
+        "stat_value": "0.5",
+        "underdog_stat": {
+          "over_multiplier": 2.5,
+          "under_multiplier": null
+        },
+        "bet365_stat": [
+          {
+            "stat_type": "Under",
+            "american_odds": -599,
+            "bookmaker": "Bet365"
+          },
+          {
+            "stat_type": "Over",
+            "american_odds": 400,
+            "bookmaker": "Bet365"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "full_name": "Carlos Cuesta",
+    "match_name": "Uruguay v Colombia",
+    "game_date": "2024-07-11",
+    "game_time": "00:00:00",
+    "stats": [
+      {
+        "stat_title": "Player Shots",
+        "stat_value": "0.5",
+        "underdog_stat": {
+          "over_multiplier": 1.25,
+          "under_multiplier": 0.8
+        },
+        "bet365_stat": [
+          {
+            "stat_type": "Over",
+            "american_odds": 150,
+            "bookmaker": "Bet365"
+          },
+          {
+            "stat_type": "Under",
+            "american_odds": -200,
+            "bookmaker": "Bet365"
+          }
+        ],
+        "kambi_stat": [
+          {
+            "stat_type": "Under",
+            "american_odds": -244,
+            "bookmaker": "Kambi"
+          },
+          {
+            "stat_type": "Over",
+            "american_odds": 155,
+            "bookmaker": "Kambi"
+          }
+        ]
+      },
+      {
+        "stat_title": "Player Shots On Target",
+        "stat_value": "0.5",
+        "underdog_stat": {
+          "over_multiplier": 2.75,
+          "under_multiplier": null
+        },
+        "bet365_stat": [
+          {
+            "stat_type": "Under",
+            "american_odds": -699,
+            "bookmaker": "Bet365"
+          },
+          {
+            "stat_type": "Over",
+            "american_odds": 450,
+            "bookmaker": "Bet365"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "full_name": "Marcus Thuram",
+    "match_name": "Spain v France",
+    "game_date": "2024-07-09",
+    "game_time": "19:00:00",
+    "stats": [
+      {
+        "stat_title": "Player Shots On Target",
+        "stat_value": "0.5",
+        "underdog_stat": {
+          "over_multiplier": 1.0,
+          "under_multiplier": 1.0
+        },
+        "bet365_stat": [
+          {
+            "stat_type": "Over",
+            "american_odds": 110,
+            "bookmaker": "Bet365"
+          }
+        ],
+        "kambi_stat": [
+          {
+            "stat_type": "Under",
+            "american_odds": -116,
+            "bookmaker": "Kambi"
+          },
+          {
+            "stat_type": "Over",
+            "american_odds": -122,
+            "bookmaker": "Kambi"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "full_name": "Harry Kane",
+    "match_name": "Netherlands v England",
+    "game_date": "2024-07-10",
+    "game_time": "19:00:00",
+    "stats": [
+      {
+        "stat_title": "Player Shots On Target",
+        "stat_value": "0.5",
+        "underdog_stat": {
+          "over_multiplier": 0.8,
+          "under_multiplier": 1.5
+        },
+        "bet365_stat": [
+          {
+            "stat_type": "Under",
+            "american_odds": 150,
+            "bookmaker": "Bet365"
+          }
+        ],
+        "kambi_stat": [
+          {
+            "stat_type": "Over",
+            "american_odds": -164,
+            "bookmaker": "Kambi"
+          },
+          {
+            "stat_type": "Under",
+            "american_odds": 115,
+            "bookmaker": "Kambi"
+          }
+        ]
+      }
+    ]
+  }
+]

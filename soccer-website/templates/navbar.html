@@ -1,0 +1,18 @@
+<!-- Base Template Example -->
+<div class="container">
+    <header class="d-flex flex-wrap justify-content-center py-3 mb-4 border-bottom">
+        <a href="#" class="d-flex align-items-center mb-3 mb-md-0 me-md-auto link-body-emphasis text-decoration-none">
+            <span class="fs-4">Soccer Comparison</span>
+        </a>
+
+        <ul class="nav nav-pills">
+            <li class="nav-item"><a href="{% url 'comparasion' 'filter' %}" class="nav-link text-ashgray" aria-current="page">Filtered Pepper Comparison
+            <span class="badge bg-gray-color text-white">{{ filter_count }}</span>
+            </a></li>
+
+            <li class="nav-item"><a href="{% url 'comparasion' 'non-filter' %}" class="nav-link text-ashgray" aria-current="page">Non-Filtered Pepper Comparison
+            <span class="badge bg-gray-color text-white">{{ non_filter_count }}</span>
+            </a></li>
+        </ul>
+    </header>
+</div>

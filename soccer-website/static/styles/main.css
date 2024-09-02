@@ -1,0 +1,72 @@
+.badge {
+    font-size: 16px;
+}
+.good_odds {
+    background-color: #E5F5EB;
+    color: #22793B;
+    border-radius: 15px;
+    text-align: center;
+    padding: 5px 10px;
+    font-weight: bold;
+}
+
+
+.input-disabled {
+    background-color: #e9ecef !important; /* Ensure background color stays gray */
+    pointer-events: none; /* Make it non-clickable */
+    border-color: #ced4da; /* Optional: Keep border color consistent */
+}
+
+.input-disabled:focus, .input-disabled:active {
+    background-color: #e9ecef !important; /* Maintain background color on focus/active */
+    border-color: #ced4da !important; /* Optional: Maintain border color on focus/active */
+    box-shadow: none; /* Remove any shadow that might appear on focus */
+}
+
+.table {
+    border-radius: 10px; /* Rounded corners for the table */
+    overflow: hidden;
+}
+.text-ashgray{
+    color: #265498;
+}
+.text-ashgray-dark{
+    color: #1b3b6b;
+}
+.text-ashgray-light{
+    color: #57739D;
+}
+.bg-ashgray-light{
+    background-color: #57739D;
+}
+.bg-gray-color {
+    background-color: #265498;
+}
+
+.bg-gray-color:hover {
+    background-color: #1b3b6b;
+}
+.bg-red-color {
+    background-color: #a72f2f;
+}
+.bg-red-color:hover {
+    background-color: #8f2929;
+}
+.table th {
+    background-color: #57739D; /* Custom color for table headers */
+    color: white;
+}
+.table td, .table th {
+    padding: 10px; /* Increase padding here */
+}
+
+.weight_header {
+    border-radius: 10px;
+}
+
+.btn-primary.disabled, .btn-primary:disabled
+{
+    background-color: blue;
+    // etc.
+}
+
