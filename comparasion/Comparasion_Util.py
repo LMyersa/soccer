@@ -4,8 +4,7 @@ from comparasion.Underdog_Util import Underdog
 from comparasion.Oddschecker_Util import OddsChecker
 
 
-
-class Compare():
+class Compare:
     def __init__(self):
         self.underdog_data = self.get_underdog_data()
         self.bet365_data, self.kambi_data = self.get_odds_checker_data()

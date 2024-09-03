@@ -231,6 +231,7 @@ class OddsChecker():
         for thread in threads:
             thread.join()
 
+
     def filter_non_bookmakers(self, bookmaker_stats_tuples):
         for bookmaker_stats, bookmaker_name in bookmaker_stats_tuples:
             filtered_stats = []

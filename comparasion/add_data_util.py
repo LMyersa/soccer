@@ -2,6 +2,7 @@ from comparasion.Comparasion_Util import Compare
 # from .models import Soccer
 from django.db import transaction
 from .models import OverOdds, UnderOdds
+from Soccer.celery import app
 
 # @transaction.atomic
 # def all_together_data_util():
@@ -97,6 +98,9 @@ from .models import OverOdds, UnderOdds
 #     Soccer.objects.bulk_create(soccer_objects_to_create, batch_size=batch_size)
 #
 #
+
+
+@app.task
 @transaction.atomic
 def add_data_util():
     OverOdds.objects.all().delete()
@@ -185,3 +189,5 @@ def add_data_util():
 
     OverOdds.objects.bulk_create(over_odds_objects_to_create, batch_size=over_batch_size)
     UnderOdds.objects.bulk_create(under_odds_objects_to_create, batch_size=under_batch_size)
+
+    print("Done with task")

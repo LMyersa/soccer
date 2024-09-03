@@ -1,13 +1,11 @@
 from django.db.models import Q
 from django.shortcuts import render
-from comparasion.add_data_util import add_data_util
 # from comparasion.models import Soccer
 from comparasion.models import OverOdds, UnderOdds
 from itertools import chain
 
-def load_comparasion(request, filter_type):
-    add_data_util()
 
+def load_comparasion(request, filter_type):
     if filter_type == "filter":
         over_odds_player = OverOdds.objects.filter(
             over_multiplier__isnull=False,
