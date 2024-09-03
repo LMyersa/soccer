@@ -18,3 +18,9 @@ case, you have threads in your tasks so you will need some extra args and end up
 using this `celery -A Soccer worker --concurrency=1 --pool=threads -l info`
 8. Run Celery Beat to turn on task scheduling with 
 `celery -A Soccer beat -l info`
+9. Add a `Procfile` for Heroku and update it with the `web`, `worker` and 
+`beat` dynos for the Django app, Celery worker and Celery beat
+10. Add a release command to run on every release to Heroku, this can contain
+a command for migration
+11. From your heroku CLI, scale the number of instances for each dyno using 
+`heroku ps:scale web=1 worker=1 beat=1`
