@@ -10,8 +10,10 @@ click-plugins==1.1.1
 click-repl==0.3.0
 Django==5.1
 fake-useragent==1.5.1
+gunicorn==23.0.0
 idna==3.7
 kombu==5.4.0
+packaging==24.1
 prompt_toolkit==3.0.47
 python-dateutil==2.9.0.post0
 pytz==2024.1
