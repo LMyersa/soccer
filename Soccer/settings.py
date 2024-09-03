@@ -132,12 +132,16 @@ STATIC_ROOT = BASE_DIR / 'staticfiles'
 
 DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 
-# CELERY
+# Celery configs
+
+# The URL of the broker for celery to use
 CELERY_BROKER_URL = os.getenv('REDIS_URL', 'redis://localhost:6379/0')
+# The URL of the backend you want to use in case you wish to store the result of a task
 CELERY_RESULT_BACKEND = os.getenv('REDIS_URL', 'redis://localhost:6379/0')
+# The tasks you need to schedule
 CELERY_BEAT_SCHEDULE = {
     'add_data': {
-        'task': 'comparasion.tasks.add_data_util',
-        'schedule': 60.0
+        'task': 'comparasion.tasks.add_data_util', # Name of task
+        'schedule': 60.0 # Time in seconds
     }
 }
