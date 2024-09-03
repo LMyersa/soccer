@@ -4,18 +4,7 @@ from comparasion.Comparasion_Util import Compare
 from django.db import transaction
 
 
-@app.task
-def task_one():
-    print(" task one called and worker is running good")
-    return "success"
-
-
-@app.task
-def task_two(data, *args, **kwargs):
-    print(f" task two called with the argument {data} and worker is running good")
-    return "success"
-
-
+# This decorator makes the function a celery task and should be put in tasks.py for discovery
 @app.task
 @transaction.atomic
 def add_data_util():

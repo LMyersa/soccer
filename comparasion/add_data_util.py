@@ -2,7 +2,6 @@ from comparasion.Comparasion_Util import Compare
 # from .models import Soccer
 from django.db import transaction
 from .models import OverOdds, UnderOdds
-from Soccer.celery import app
 
 # @transaction.atomic
 # def all_together_data_util():
@@ -100,7 +99,6 @@ from Soccer.celery import app
 #
 
 
-@app.task
 @transaction.atomic
 def add_data_util():
     OverOdds.objects.all().delete()
